@@ -202,7 +202,7 @@
 0,BOjpe0u5u_cm9SWMS2KLFg,Stacked STL,4.5,63111,567,$$
 1,Nk4qSOwcVdAT1CMOzU3O0g,The Stellar Hog,4.5,63116,128,$$
 2,oUgmm76-UCd5N0z4xwDOYw,Grbic Restaurant,4.5,63116,241,$$
-3,A5b9nVDi1DPVvPOD24-p6w,Sump Coffee,4.5,63118,285,$$
+3,A5b9nVDi1DPVvPOD24-p6w,Sump Coffee,4.5,63118,286,$$
 4,EfXTQPiVBym_2KoG7-XeSw,Banh Mi So 1,4.0,63118,231,$
 5,8ZFC_TnP_hAsn0rgoK7KAA,Chimichanga's Mexican Restaurant,3.5,63111,201,$
 6,pi-y4uXjkOWeuBSI8bv2Wg,Majeed Mediterranean Restaurant,4.5,63116,88,$$
@@ -335,8 +335,8 @@
 13,fAh1DvXplLu66urTBWSjaQ,Acero,4.5,63143,210,$$$
 14,OXDo1mHlp2Io3CM6a1aB1w,Seoul Taco,4.0,63130,635,$
 15,OZcl2HOUXAHuICrh5d2WjQ,Half & Half,4.0,63105,726,$$
-16,qck6waU6WlXBesRKmtsWfg,Kaldi's Coffee Roasting Company,4.5,63105,218,$$
-17,qEBL7U0kW4lkptcd_4wWbg,New Day Gluten Free,4.5,63117,94,$$
+16,qEBL7U0kW4lkptcd_4wWbg,New Day Gluten Free,4.5,63117,95,$$
+17,qck6waU6WlXBesRKmtsWfg,Kaldi's Coffee Roasting Company,4.5,63105,218,$$
 18,VVHfqUeYyAA9FEsH-6PI2A,Foundation Grounds Coffeehouse & Cafe,4.0,63143,229,$$
 19,sMTmX6yttmwIhNWxlNtNfA,Pie Oh My!,4.5,63143,107,$$
 0,_aKr7POnacW_VizRKBpCiA,Blues City Deli,5.0,63104,875,$
@@ -347,7 +347,7 @@
 5,HCYs4zgL7kCLdEqKRqaPbg,Lona's Lil Eats,4.5,63104,553,$$
 6,3zI7Ka2_ZsKh4UwbSFnXdw,Lulu's Local Eatery,4.5,63118,438,$
 7,DzVYXX8mc5x31BbaP8c0_Q,Mac's Local Eats,4.5,63118,295,$$
-8,A5b9nVDi1DPVvPOD24-p6w,Sump Coffee,4.5,63118,285,$$
+8,A5b9nVDi1DPVvPOD24-p6w,Sump Coffee,4.5,63118,286,$$
 9,0QYWhij_YZ7Lyk9F6213Sg,Pho Grand Restaurant,4.0,63118,607,$
 10,L-VNs3YquPGKVsXl2Ze-Yg,Peacemaker Lobster and Crab,4.0,63104,670,$$
 11,T-xYMAkdNlMPCGqWAH3mwg,Kalbi Taco Shack,4.5,63118,156,$
@@ -460,7 +460,7 @@
 18,RJu855uVd3DzmSlyb8Vc6A,Francis Park,4.5,63109,32,*
 19,UleHqBmIEjXdYMZzSFRLAg,Sedara Sweets & Ice Cream,4.5,63123,26,$
 0,vWjME92WddneF98IqzaNfQ,Sugarfire Smoke House,4.5,63132,1462,$$
-1,33l2XVp01d8kltTs_UMJ8A,Truffles,4.5,63124,129,$$$
+1,33l2XVp01d8kltTs_UMJ8A,Truffles,4.5,63124,130,$$$
 2,3XXt0s_SDC9SyFTiIPNSgA,The Original Pancake House,4.0,63124,284,$$
 3,EF_9W5s9lFSjv4forNxwng,Tai Ke,4.5,63132,244,$$
 4,C6KP0hSutumHzLDCFyjvJQ,Katie's Pizza & Pasta Osteria,4.0,63119,585,$$
@@ -852,7 +852,7 @@
 10,b4YPBSnqU5_L6TUz147Dow,City Coffeehouse & Crêperie,4.0,63105,415,$$
 11,OZcl2HOUXAHuICrh5d2WjQ,Half & Half,4.0,63105,726,$$
 12,VUkBbffnuUpKX9MKRUt4yQ,Bonefish Grill,3.5,63144,274,$$
-13,qEBL7U0kW4lkptcd_4wWbg,New Day Gluten Free,4.5,63117,94,$$
+13,qEBL7U0kW4lkptcd_4wWbg,New Day Gluten Free,4.5,63117,95,$$
 14,P1rfYX62C_HD4t3TjO41BQ,Kolache Factory,4.0,63144,131,$
 15,6r9FNW0-4aKqbPCX7UxTZg,Maggiano's Little Italy,3.5,63117,332,$$
 16,S51xnoezpcCY8jd96_hXfQ,Yummi Tummi,4.5,63143,112,$
@@ -897,5 +897,5 @@
 15,K-WNeHq2Mg3nZITLAlblAA,Mandarin Inn,4.5,63115,3,$
 16,m5zZ5yVvkdI2NOqStwguqQ,Wing Hing Chop Suey,5.0,63107,2,*
 17,JKmqeigSs6vLKpjoRPhLug,C-W Fried & Grill,4.5,63137,3,$
-18,OLrLFtCoacBjTjFGG65ckw,McDonald's,1.0,63147,6,$
-19,Py03f_TfjPxt0MT6uFok8g,Kings Fried Rice Chopsuey,4.0,63107,2,$
+18,7arTX9DTn5Wu9YQjSqFgBw,Subway Restaurants,5.0,63147,1,$
+19,OLrLFtCoacBjTjFGG65ckw,McDonald's,1.0,63147,6,$
