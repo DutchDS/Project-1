@@ -1,0 +1,888 @@
+index,name,rating,review_count,price,zip_code,id
+1,Broadway Oyster Bar,4.5,1740,$$,63102.0,iRIHK8-EwpeffwvoO4nzIA
+2,Mango,4.0,903,$$,63101.0,Mr7Aov2n7wPCpwaUxk8lCw
+3,Rooster,4.0,1759,$$,63101.0,2BMk_drsikKWslJCXmQtjQ
+4,Sugarfire Smoke House,4.5,885,$$,63101.0,WCdSajl5Q0qywpv7K5jHdQ
+5,Bogart's Smokehouse,4.5,1350,$$,63104.0,NHb6QTrJOnyIj-Zd0fYzFg
+6,Bridge Tap House and Wine Bar,4.0,699,$$,63101.0,4r3Ck65DCG1T6gpWodPyrg
+7,Sauce on the Side,4.5,387,$$,63101.0,P2XJbQZmf1zvWp9L_THdjQ
+8,Baileys' Range,3.5,1451,$$,63101.0,M0r9lUn2gLFYgIwIfG8-bQ
+9,Medina Mediterranean Grill,4.5,266,$,63103.0,QV7QOLww8ym3E2zBgdE2Ow
+10,Pi Pizzeria,4.0,503,$$,63101.0,jRpK8oG_8QKaPGaaKiCyng
+11,Blood & Sand,4.5,289,$$$,63103.0,A4-2jEraYJ2w2grn_uXlHw
+13,360 St. Louis,4.0,620,$$,63102.0,GeLwhGlX8XsIsH-o3Wdc5w
+14,Polite Society,4.5,521,$$,63104.0,aI3B47Y_AUYFP5K5JAYrlA
+16,The Schlafly Tap Room,4.0,643,$$,63103.0,F4gvookXrKsBNCvK_xEt1g
+18,Blues City Deli,5.0,874,$,63104.0,_aKr7POnacW_VizRKBpCiA
+19,Park Avenue Coffee - Downtown,4.0,205,$,63101.0,AhptHEV4nFleCv4yOwp6fg
+20,Caruso's Deli,4.5,158,$,63101.0,qq8tipfziNTaKXYDKnQ8og
+21,Crown Candy Kitchen,4.5,514,$,63106.0,3XirYkP9PJvVXIEDPNNXLA
+22,Eleven Eleven,4.0,504,$$$,63104.0,q2gRx1K1mbk6zHV4ZOCChQ
+23,Charles P Stanley Cigar Bar,4.5,106,$$,63101.0,SzKOoeRCtoXvekt3K8B9Iw
+24,Clementine's Naughty & Nice Creamery,4.5,503,$$,63104.0,fC03dk7N8XV-RzGh0UJgmA
+25,Baileys' Chocolate Bar,4.0,545,$$,63104.0,u4WC_qHGn03jwNdVmW5vaQ
+26,Tony's,4.0,184,$$$$,63102.0,v2Z_d9d2GWCVUTtPg5ucRw
+27,Pickles Deli Downtown,4.5,145,$,63101.0,xhydqMrct3DSCIl7Yjx9Qg
+28,Lombardo's Trattoria,4.5,291,$$,63103.0,kBCB53psaoKcHwv4kNByOg
+29,Drunken Fish,4.0,379,$$,63102.0,m6Q6z3SAkXVdidNqiKmBrQ
+30,Blondie's Coffee and Wine Bar,4.0,256,$$,63103.0,33JlrWf0kmHd2VzW58Wp0g
+31,Square One Brewery & Distillery,4.0,589,$$,63104.0,GqyOrF5X21ciTjnuSCH5PQ
+32,Tigin Irish Pub,4.0,266,$$,63102.0,Xk6GSFf8KGGZ3cyYijwRcw
+33,"BLT's - Breakfast, Lunch and Tacos",4.0,140,$$,63101.0,1yrGx3Cwtj7I0zmhuVsu9Q
+34,Egg,4.5,566,$$,63104.0,0MhxvTys2ADYa3sOO91ldQ
+35,Sushi Ai,3.5,274,$$,63101.0,eclNqAZx6YHlkx_QDBF6AA
+36,Kaldi's Coffee,4.5,104,$$,63101.0,0JnsAQFvOFxPltNU_smK3w
+37,Snarf's,4.0,195,$,63101.0,4CfelC-az9l85o1CY7eQvg
+38,4 Hands Brewing,4.0,291,$$,63104.0,wPViqOIThG5W_p4FKGqjrQ
+39,Planter's House,4.0,246,$$,63104.0,90pJu2O7fIEm_N31Fyue7A
+40,Pieces The St. Louis Board Game Bar & Cafe,4.5,174,$$,63104.0,r8DNf74pfvCdy29fGuwAoA
+41,Washington Avenue Post,4.5,73,$,63103.0,LS0bgbX9fTTTOJe5wDZj-g
+42,Rosalita's Cantina,3.5,482,$$,63103.0,d5G3dpdyO60CYHukoM-_FQ
+43,Lucas Park Grille,3.5,236,$$,63103.0,7s5ImgKYDMrwYtFuNZuLjw
+44,Carmine's Steakhouse,4.0,216,$$$,63102.0,1P_mGUY1PyPq7_ZabrzpBw
+45,PW Pizza,4.0,275,$$,63103.0,6t0sNev22mcbvOB4gYVVOw
+46,Mission Taco Joint,4.0,513,$$,63104.0,bqR_3sT_rNp0hZglPtX6rw
+47,Pizzeoli Wood Fired Pizza,4.5,293,$$,63104.0,CBWmYHLgtFrOJs7SCcQn0g
+48,The Over/Under Bar & Grill,3.5,235,$$,63101.0,iiBCWBFwb_bzlH9usC5XPQ
+49,Park Avenue Coffee - Lafayette Square,4.0,242,$,63104.0,2IahpaBR4U2Kdy9HF28EQA
+86,Cinder House,4.0,94,$$$,63102.0,ya4ky7GX7nTWPW40-YSAQQ
+92,Trust,5.0,42,$$,63102.0,AmLmrWRTBmtlAZHwMFrWDw
+93,Smoki O's Bar-B-Que,4.0,114,$$,63102.0,0bAzY4Rtvj3aCDJXh-KWJQ
+96,Chili Mac's Diner,4.0,116,$,63101.0,d3OyW6UXr3_wgyTBZ6A0xQ
+97,Kiin Essentially Thai,4.5,68,$$,63101.0,SkEr3iGr9x5aw7Dh5bOtxg
+100,Pappy's Smokehouse,4.5,3717,$$,63103.0,I_3LMZ_1m2mzR0oLIOePIg
+102,The Fountain On Locust,4.5,897,$$,63103.0,jQBPO3rYkNwIaOdQS5ktgQ
+105,Southern,4.5,544,$$,63103.0,S07dMpp8f9x7etbGW1L0QA
+119,Small Batch,4.0,311,$$,63103.0,a0sN6y6fDZ5HtBjUimKukA
+122,Lona's Lil Eats,4.5,555,$$,63104.0,HCYs4zgL7kCLdEqKRqaPbg
+123,The Shaved Duck,4.5,1641,$$,63118.0,cQIh4YJlVtZI9TLF5_smOg
+126,Urban Chestnut Brewing Company,4.5,234,$$,63103.0,WNcGg9G-odTGz00DSMx7rg
+133,Vin de Set,3.5,423,$$,63103.0,p_6THXiGLViyxYnOY8BzZQ
+137,Hamilton's Urban Steakhouse and Bourbon Bar,4.5,90,$$$,63103.0,NUSp_d5o-_8INV_xBykUeg
+139,Sapporo 2 Sushi& Thai,4.0,188,$$,63103.0,MWdO8vvXEtswuBM4wOgVzw
+140,Moolah Theatre & Lounge,4.5,190,$$,63108.0,g6rcVXjeLT6Y_kAFhbbJRg
+145,33 Wine Shop & Bar,4.5,87,$$,63104.0,Ji8_dSNb9yYxXl6YWl9KVw
+146,Peacemaker Lobster and Crab,4.0,673,$$,63104.0,L-VNs3YquPGKVsXl2Ze-Yg
+148,Turn Restaurant,4.5,111,$$,63103.0,ZoSDp6Ycoy9H2spud3PYqQ
+149,21st Street Brewer's Bar,4.5,80,$$,63103.0,DGY8cn8wttngO_BszB7BOQ
+160,The Mud House,4.5,923,$$,63118.0,FryXEasH74MQDnj5Bvz3QA
+166,John D. McGurk's Irish Pub,4.0,381,$$,63104.0,AjxjKRNin477A7nKAZciGg
+167,Fritanga,4.5,259,$$,63104.0,cFk2SMsJ-2cmXKLFFkP9JA
+169,Melo's Pizzeria,5.0,102,$$,63104.0,37dCsVwCe8yWPkW7TXCLCA
+170,Chava's Mexican Restaurant,4.0,375,$$,63104.0,QAdaeyJlY8deDP_QbN9ycA
+171,Spare No Rib,4.5,255,$$,63109.0,4xsJN2FuB94w9rMoMo6XFQ
+172,Sidney Street Cafe,4.0,324,$$$,63104.0,WzpWEuVWY-6Xh37wc44GiA
+173,Tucker's Place,4.0,366,$$,63104.0,NiljjvbIIzQPxIPqeLLg2Q
+174,The Wood Shack Soulard,4.5,157,$$,63104.0,zXTO8GaLmRPATr505b4GQQ
+175,Mac's Local Eats,4.5,296,$$,63118.0,DzVYXX8mc5x31BbaP8c0_Q
+180,Benton Park Café & Coffee Bar,4.0,511,$$,63118.0,kpl3H_sgfTm-tH3Aa-ML7g
+181,Soulard Coffee Garden,4.0,370,$$,63104.0,h_RQXD7IKwDkVU_n67UG4w
+182,Milque Toast Bar,4.5,161,$$,63104.0,F-j6PNGnA8yz77oIZMcPMA
+186,Frazer's Restaurant & Lounge,4.5,235,$$,63118.0,SJEtfe8kL60bh3D40KTRMw
+189,Venice Cafe,4.5,156,$,63118.0,pP5IoCQ06QXCadQebHCIzg
+190,John's Donuts,4.5,135,$,63104.0,BATrNfVKnNCQ2qAcod83Sw
+198,Kalbi Taco Shack,4.5,158,$,63118.0,T-xYMAkdNlMPCGqWAH3mwg
+200,Pastaria,4.0,852,$$,63105.0,YSgcojsb2kWHXNLWaGCuBA
+201,Salt + Smoke,4.5,1439,$$,63130.0,R8t9g5nvi7VFyS8zsgmj8Q
+202,I Fratellini,4.5,208,$$$,63105.0,TXg82zeFo2MpX5BzZXpJUg
+204,City Coffeehouse & Crêperie,4.0,416,$$,63105.0,b4YPBSnqU5_L6TUz147Dow
+205,Mai Lee,4.0,840,$$,63144.0,YPTYOQO8Lg9BtHsRwYBY7g
+206,Half & Half,4.0,727,$$,63105.0,OZcl2HOUXAHuICrh5d2WjQ
+207,Taco Buddha,4.5,189,$$,63130.0,4mGnHfvwjE6P-vuKowHzCQ
+208,Seoul Taco,4.0,637,$,63130.0,OXDo1mHlp2Io3CM6a1aB1w
+209,801 Chophouse - St Louis,4.0,256,$$$$,63105.0,XvjJflV_0I1CS0_dckuV-A
+211,Protzel's Delicatessen,4.5,151,$,63105.0,aHHK_n_wGElui6oDmRCL4A
+212,Bar Les Freres,4.5,169,$$$,63105.0,Pc3urwUFlzLyDP1qvsHQuA
+213,Sardella,4.0,196,$$$,63105.0,v4S374WpOOhojqpto-AaAA
+214,Corner 17,4.0,496,$$,63112.0,KdAWjL9MKjpJzEeI902qBA
+215,The Crossing,4.5,184,$$$,63105.0,73ZXjIfdHJs59XOzKHQ45g
+216,5 Star Burgers,4.0,374,$$,63105.0,oC91lprbbfzw7DOYiYln7Q
+217,Louie's Wine Dive & Clayton Kitchen,4.0,220,$$,63105.0,I8cL6l-Yu3CyHPXlFmOhtQ
+218,Fozzie's Sandwich Emporium,4.0,421,$,63117.0,chUeS0h9C8KGfyJO2Jqgew
+220,The BAO,4.0,153,$$,63105.0,x8AQIEjSqsW0z4vRyBetbw
+221,New Day Gluten Free,4.5,93,$$,63117.0,qEBL7U0kW4lkptcd_4wWbg
+222,The Capital Grille,4.5,115,$$$$,63105.0,ToH4z1F5Tyuo3p7VhXCpTA
+223,Louie,4.5,148,$$,63105.0,YJVXMOIKhJjQczWj9YTwrg
+224,Kaldi's Coffeehouse,4.0,116,$,63105.0,UWQNx6qZojXlDv1kBAMHug
+225,Peno,4.5,118,$$,63105.0,GJnYFvk9kbM182bKMFSAvg
+226,Dewey's Pizza,4.5,210,$$,63130.0,Tq5jFk_BMSJG8-flqj5Bgw
+227,The Original Pancake House,4.0,284,$$,63124.0,3XXt0s_SDC9SyFTiIPNSgA
+228,Three Kings Public House,4.0,481,$$,63130.0,O_0H42Bw8hBduWSADPG8ng
+229,Blueprint Coffee,4.5,316,$$,63130.0,hv-rci0u6KR75ALB_70dHw
+230,Kaldi's Coffee Roasting Company,4.5,219,$$,63105.0,qck6waU6WlXBesRKmtsWfg
+232,Hi-Pointe Drive-In,4.0,558,$$,63117.0,3ovV2S7XEAOEk8hCdYKhOA
+233,Seedz Cafe,4.5,186,$$,63105.0,PLgwTcTuOPHvJhy7nGjx0A
+234,Mi Ranchito,4.0,339,$$,63130.0,Uy0r4bzRmY5LFtDfzNgkag
+235,Ranoush,4.0,328,$$,63130.0,N_7nJa49ueh_0vPDRP3Jew
+237,Oceano Bistro,4.0,220,$$$,63105.0,1EOnQ9tfdx8Qasvn6-ttZw
+238,801 Fish,4.0,133,$$$,63105.0,NfUKLEcnR5c0cLnztw19IA
+239,BARcelona,3.5,350,$$,63105.0,yb-534-JqStRt0HmH91HnA
+240,Fitz's,3.5,622,$$,63130.0,-kHHi8y4kaTI6WUVdJSdvQ
+241,Frida's,4.0,218,$$,63130.0,Jpp41f0uoOMTnQQSAfKDkg
+242,Southwest Diner,4.5,666,$$,63143.0,k8hFz4Gty5dHlDV4Wt8FqA
+243,Cafe Napoli,4.0,211,$$$,63105.0,yoS-4wkVn6StLiK3RL1bSw
+244,La Pizza,4.5,245,$,63130.0,BeWw8cFF1maJLbgCeHACjw
+245,First Watch,4.0,196,$$,63105.0,qlRE9dbbQdDbdeL59Mkn8w
+246,Kayak's,4.0,271,$,63130.0,p6JxfR9ebAlIlpm674F-dg
+247,Colleen's,4.0,127,$$,63105.0,A2WOHcAk-BkMyf9Qgv8A8A
+248,Basso,4.0,386,$$,63117.0,Ghn6flCdNlOchzLA29tkjQ
+249,Crushed Red,3.5,242,$$,63105.0,0BoRHt9GuiXzmvNmrBVMOw
+287,Brick River Cider Company,4.0,110,$$,63103.0,KMHsCQx4pRqIMdY7mWHOCQ
+327,Sweetie Pies Upper Crust,3.5,390,$$,63108.0,dHS3dwYAGIya7yd1d3J1DA
+328,La Mancha Coffeehouse,4.5,33,$,63107.0,BUmzDaCXu44GNjvtdePVTQ
+331,Piekutowski's European Style Sausage,4.0,18,$$,63107.0,50QTrfSrow-F2Avsjabl8w
+340,Midtown Sushi  and Ramen,4.0,225,$$,63108.0,MolFYRyUmfetIp3qydvQzA
+342,Vito's Sicilian Pizzeria & Ristorante,3.5,228,$$,63103.0,iKV83dI9jNc5h6L41aaUdw
+346,The Boom Boom Room,4.0,82,$$,63103.0,1xuIrC6VBoa_9XB_5eTfAg
+348,White Knight Diner,4.0,83,$,63103.0,Bv1eO5cFOGO2SEUzBXNb-w
+350,Taste Bar,4.5,519,$$,63108.0,_gVyuTRb_6HM-SNtqbpevQ
+351,Jeni's Splendid Ice Creams,4.5,267,$$,63108.0,jKHlvwq40sghrR89pF_3Tw
+352,Brasserie by Niche,4.5,578,$$,63108.0,El_2Cxuq4hxqrmlg_5nzzA
+353,Retreat Gastropub,4.5,589,$$,63108.0,oHvEgLH6pAkcrPmeR1l3UQ
+354,Sameem Afghan Restaurant,4.5,485,$$,63110.0,GW-H37yWCNhgWPg9RwKbVA
+355,Pi Pizzeria - Central West End,4.0,450,$$,63108.0,S26FJcC298XNpN2cZiwOrA
+356,Café Osage,4.0,375,$$,63108.0,yvwIsOBQyTDsOhfS1sIVvQ
+357,The Scottish Arms,4.0,469,$$,63108.0,qfABDeMSCirVPeG6BfcUEA
+358,The Cup,4.0,303,$,63108.0,8vwdDagJc8bJR0ZojFGZxw
+359,Dressel's Public House,4.0,391,$$,63108.0,4oe5dLfE283zx0aw6BHKTA
+361,El Burro Loco,4.0,393,$$,63108.0,NJaR_2hke7NNAC6l1Ohr8g
+362,2Schae Cafe,4.5,272,$,63108.0,KWIapYSSHxfZ1NQFpV2S9g
+363,Yellowbelly,4.0,230,$$$,63108.0,YpGPZ-Zg89BsFUWwCXoaBw
+364,Blk Mkt Eats,4.5,245,$$,63108.0,oRe0iraGEsVSNKxcp_hjbw
+365,Narwhal's Crafted,4.5,184,$$,63108.0,5mDneH5wP5VN_7GVe-PudQ
+366,Union Loafers Cafe and Bread Bakery,4.5,369,$$,63110.0,VJ-c-Yjj1qv7dKS5YaYoHg
+367,PokeDoke,4.5,153,$$,63108.0,zun6IVJa7wYe3wAPqWnPGw
+368,Sub Zero Vodka Bar,3.5,502,$$,63108.0,KChWMIHxMChTE11ZVsIVZw
+369,Vicia,4.0,233,$$,63108.0,3VYxaeo6BJNHbVIIfmWN_w
+370,Sultān Mediterranean Restaurant,5.0,164,$$,63110.0,U4DpkzcADkXFZzYaX9smjQ
+371,SUSHI KOI,4.5,165,$$,63108.0,kqt8O-XxMkE6ga42IPa7sA
+373,Grace Meat + Three,4.5,353,$$,63110.0,MuKoTR56s6elHEI2wUkgJA
+374,Comet Coffee & Microbakery,4.5,290,$$,63110.0,P0fHDZn2pReUu7BdMxNuyw
+375,Juniper,4.0,340,$$,63108.0,YT1oM3AlNSCjzKvbH8MPWA
+376,The Gramophone,4.5,229,$,63110.0,Nq1Kn7ud84upBHz9chFW0A
+378,Pickles Deli,4.0,198,$,63108.0,Fm16G-I-rmO3g_KTKleteQ
+379,Rise Coffee House,4.5,270,$$,63110.0,C2JtfhOZ3PPzIS9V5arQ2A
+380,Evangeline's Bistro and Music House,4.0,305,$$,63108.0,KhKcgF3zi6J_M6HBzkFkLg
+381,Gamlin Whiskey House,3.5,520,$$,63108.0,fZ92MJ1hbEMXqwWTSwF9lA
+383,Kampai Sushi Bar,4.0,284,$$,63108.0,ARgidflSXPHj7uhK-Y7hwA
+384,India Rasoi,4.0,287,$$,63108.0,tWJ3DwufXIKdlLTEw7K96g
+385,Everest Cafe & Bar,4.0,348,$$,63110.0,X7yGrz7oDbt8UY5rdmJc_w
+386,West End Grill & Pub,4.0,181,$$,63108.0,1KhNDQSdDqzPQaZk8PIdGg
+387,Layla,4.0,424,$$,63110.0,4ZNCc1GzJZkS7XI1c9rCMA
+389,Thai 202,4.0,248,$,63108.0,rXqlpCH6z9rSFNCL76FfLw
+390,Northwest Coffee Roasting Company,4.0,145,$,63108.0,ZcSdZkosdUL3mFAaNS2xAA
+391,Wild Flower Restaurant & Catering,3.5,424,$$,63108.0,95Ovc1lSnOQwSrjIFhpYrA
+392,Medina Grill,4.5,62,$,63108.0,Ut_46Y-g3BsokjYGUHJ5Ng
+393,Hot Box Cookies,4.0,120,$,63108.0,uReXJy913T1GFIzI_Uga7A
+394,Kingside Diner,3.5,226,$$,63108.0,7_YYjlT-qRP8h1IkpPWObw
+395,Scarlett's Wine Bar,4.0,128,$$,63108.0,2coic7DZlnlqVhblbEOpIA
+396,Cocina Latina,5.0,44,$$,63108.0,ngU4740twiB222g4ti0_eQ
+398,Anthonino's Taverna,4.5,826,$$,63110.0,LGYIhGqbYakMMdsn_GCzJg
+399,Adriana’s On The Hill,4.5,356,$$,63110.0,56M2bwaaSzcmzr2dyEfYQw
+400,Ted Drewes,4.5,1228,$,63109.0,nRKndeZLQ3eDL10UMwS2rQ
+401,Russell's on Macklind,4.5,495,$$,63109.0,HzUJO2v5lUEIeYoOYsdWbw
+402,Kounter Kulture,5.0,268,$$,63109.0,SFN5g5eexukcaZkzoiYQYg
+403,Edibles & Essentials,4.5,148,$$,63109.0,hbs43HZRB1nwMzMtiT9lsQ
+404,Trattoria Marcella,4.5,329,$$,63109.0,kpK6SmxIiNoGPNhlEGiL4w
+406,Salt + Smoke BBQ Bourbon Beer,4.5,248,$$,63109.0,ZIpPvfIGlrxhsAz1ID0tYg
+408,Aya Sofia,4.0,282,$$,63109.0,8V9G6dC9sLCGp1LQVrmXwA
+409,Adam's Smokehouse,4.5,314,$$,63139.0,1o9IdLrFGMS2o5Y8uXKC0Q
+410,Cafe Nova,4.5,175,$$,63109.0,sHwNZLuLZvlVBX17b7RgTw
+411,Pint Size Bakery & Coffee,4.5,211,$,63139.0,0cddB9WRKcQhzAEXEav81w
+412,Vinnie's Italian Beef and Gyros,4.5,172,$,63139.0,_-XYJgVGrNMtn_S6nPm-GQ
+413,Smoking Barrels BBQ - St. Louis,4.0,264,$$,63109.0,R_u4QTal0d5f-FHr7BUXcw
+414,Farmhaus Restaurant,4.0,314,$$$,63139.0,vD2jzpPv4iyOLKzITscGvA
+415,Copper Pig,4.0,264,$$,63109.0,tqHbdVDUbPub5l5_OcEWvQ
+416,The Gyro Company,4.5,188,$,63109.0,EPXnaI6YQlmK5VUDAI0o7A
+417,Pizzeria Tivoli,4.5,166,$$,63109.0,CTvHlHQ4jzRO8gkkl4O8zQ
+418,Onesto Pizza & Trattoria,4.0,251,$$,63109.0,a1GY-xy-PKrPXlMbhBv5ZA
+419,Pueblo Solis,3.5,223,$$,63109.0,rfbfSleg64ObTGGRMZgt3A
+420,F&B's Eatery,4.5,80,$,63139.0,mm3ANaRdJo8nAaPFpn76AA
+421,Knead,4.5,98,$$,63139.0,7sV9quynaXTvDW85Bixhaw
+422,Dos Reyes Mexican Restaurant,4.0,130,$$,63109.0,WYFbNrYDgw7gNDvMxa0rKA
+423,Himalayan Yeti,4.5,215,$$,63139.0,1ulD4HL2G8qbpEuuWFDSqQ
+424,Zia's on the Hill,4.0,638,$$,63110.0,AixPbZxJkgRyjxVqrpPAmw
+425,Novella Wine Bar,5.0,43,$$,63109.0,Zz1utCut0psbC4brBjvSEg
+426,The Royale Food & Spirits,4.0,371,$$,63139.0,gKBqK-FFq7EGOUscBqb1iA
+427,Apollonia,4.0,170,$$,63116.0,ay9zMsFHhwD483o8Zwdc_A
+428,The Piccadilly at Manhattan,4.0,230,$$,63143.0,7ZQYMFjKj7AK1vzCi0BNyg
+429,Bo Fung Chinese Kitchen,4.0,192,$,63116.0,zvcyW3ZtPYWziX7k9tCFBg
+430,Schlafly Bottleworks,4.0,561,$$,63143.0,EpREWeEpmR8f1qLHzzF0AA
+431,Lemmons,4.5,97,$$,63116.0,vgTA3vYLwZM2OnzJHjNdug
+432,Bono's Pizzeria,4.0,118,$$,63109.0,cXsrd3SqPh778u2yaiAslA
+433,Chris' Pancake & Dining,4.0,314,$,63139.0,Ct6pupk8Cy6sI2mrIzF7UA
+435,Gioia's Deli,4.5,302,$,63110.0,56TulnfOZy0JI96zwVv27w
+436,Mom's Deli,4.0,188,$,63109.0,YpMEDBDkz49VOiueB4OOlQ
+437,58hundred,4.5,117,$$,63139.0,0AfjyySl4Rivh-QhWfrClA
+438,Charlie Gitto's On the Hill,4.5,547,$$,63110.0,dtU_DsHVOCi-2-mWe7gabw
+440,J's Pitaria,4.5,62,$,63116.0,2P-pvj_jo0SxNe6jih6sOA
+441,Acero,4.5,212,$$$,63143.0,fAh1DvXplLu66urTBWSjaQ
+442,Missouri Baking Company,4.5,189,$,63110.0,PbunaXxpRE8sXGkKn5FFYw
+443,Barg Continental Restaurant,4.5,62,$$,63109.0,DcpWJx1NKJDAL2w9r6yZbw
+444,Living Room,4.5,183,$$,63143.0,WY0ji9m-qAOc_6lK8h4pNw
+445,Pizza-A-Go-Go,4.5,119,$$,63139.0,FFhS5dhkyRdLhqQo8Q5WTQ
+446,Foundation Grounds Coffeehouse & Cafe,4.0,232,$$,63143.0,VVHfqUeYyAA9FEsH-6PI2A
+447,Uncle Bill's Pancake & Dinner House,3.5,324,$,63139.0,lQ58_4SzdETRSw0h8tilhA
+448,Pie Oh My!,4.5,109,$$,63143.0,sMTmX6yttmwIhNWxlNtNfA
+449,JJ Twig's Pizza & Pub,4.0,77,$$,63109.0,fzKngKvD8BIXTt3ZvmgFvg
+464,Olio,4.0,322,$$,63110.0,rBdG_23USc7DletfZ11xGA
+466,SweetArt,4.5,411,$$,63110.0,YVy2DgGfNmG5hWYbA7k8jg
+469,Indo,5.0,96,$$$,63110.0,_xWm_EgCq4dGTjo_DmEVWw
+474,La Patisserie Chouquette,4.5,199,$$,63110.0,5TVWytR2oNbSKYgfxypuBw
+476,Confluence Kombucha,5.0,73,$$,63110.0,kZVkrF0Cy-xwfpO94g-ylw
+477,Lulu's Local Eatery,4.5,439,$,63118.0,3zI7Ka2_ZsKh4UwbSFnXdw
+479,J Devoti Trattoria,4.5,181,$$$,63110.0,rdtx0kMDoC15FvNyom6W_g
+482,Pho Grand Restaurant,4.0,607,$,63118.0,0QYWhij_YZ7Lyk9F6213Sg
+483,Ices Plain & Fancy,4.0,295,$$,63110.0,wJuWId7lvoTElFX3rN7smQ
+484,Gelato Di Riso,4.5,119,$,63110.0,9ycb4phY8qbaLcloDhmbNg
+485,The U.R.B. - Urban Research Brewery,4.5,90,$,63110.0,FfByA_YBYED3foAMAmM3bw
+489,Taco Circus,4.0,286,$$,63110.0,q2rR-v9ZStix89t7ihyuqg
+492,Nixta,4.0,164,$$,63110.0,91vP2e7AIvTRNPErOkKZYQ
+494,Tree House Vegetarian Restaurant,4.5,362,$$,63118.0,VNvJuCTMdGBj4lwC0L1Ghg
+495,Hello Juice & Smoothie,4.5,90,$$,63110.0,6YVES8bcHezqAmzexU2kFw
+496,BEAST Butcher & Block,4.5,112,$$,63310.0,jJKmOo4aeo_NanXQn1gjiw
+497,Sanctuaria,3.5,330,$$,63110.0,9GdGe93oLy8MTtmEsfmgEg
+498,Guerrilla Street Food,4.0,375,$,63118.0,A1suinq7EcpyM06JIe7iOA
+500,Stacked STL,4.5,570,$$,63111.0,BOjpe0u5u_cm9SWMS2KLFg
+501,The Stellar Hog,4.5,128,$$,63116.0,Nk4qSOwcVdAT1CMOzU3O0g
+502,Grbic Restaurant,4.5,243,$$,63116.0,oUgmm76-UCd5N0z4xwDOYw
+503,Sump Coffee,4.5,285,$$,63118.0,A5b9nVDi1DPVvPOD24-p6w
+504,Banh Mi So 1,4.0,231,$,63118.0,EfXTQPiVBym_2KoG7-XeSw
+505,Chimichanga's Mexican Restaurant,3.5,200,$,63111.0,8ZFC_TnP_hAsn0rgoK7KAA
+506,Majeed Mediterranean Restaurant,4.5,88,$$,63116.0,pi-y4uXjkOWeuBSI8bv2Wg
+507,Mariachis II Mexican Restaurant,4.5,145,$$,63116.0,DMlBzp6bs_f8WK8xQQvZWQ
+511,Kabul Express STL,5.0,77,$,63125.0,6EKawoqscJ0IYNjtfpd0_w
+512,Byrd & Barrel,4.0,352,$$,63118.0,IzYE3fXqNgHIOFmY7nVQvA
+513,Kitchen House Coffee,4.5,31,$$,63111.0,RVD0t9-pUTbcypj45FBsNg
+514,Whisk: a Sustainable Bakeshop,4.5,120,$,63118.0,j3E_vGw47XpiEgTr-KiJUg
+515,Truc Lam,4.0,151,$,63116.0,iay91CweEOzRIW6wjcOjuA
+517,Taqueria El Bronco,4.0,211,$,63118.0,gku-vC4YB5c7ZuNyLhjNbQ
+519,The Silver Ballroom,4.5,78,$,63116.0,fdG0BNPv24psbe0_KtlwLQ
+520,Teatopia,5.0,60,$,63118.0,L4JFBsgfLZIL9SJ5uxXgJw
+521,Riverside Diner,5.0,27,$,63111.0,BLvL1pUrgpzt2bJHRQ5yvQ
+522,Neveria La Vallesana,3.5,349,$,63118.0,eORwNQsgjeJGrUPnQFJ9xA
+523,Tower Taco,4.0,181,$,63118.0,kOOiEcy0UaWLwCPgZ95nmg
+524,Urban Eats,4.0,82,$,63118.0,71q2UD1A7KL2q4AA8mPobQ
+525,Gooseberries,4.5,76,$$,63118.0,ldBhNb6DnmretKOCLhjZdA
+526,Royal Kebab Restaurant,4.0,41,$,63116.0,oufNYOeHRjJPhAng9L6Mxw
+527,Zlatno Zito,5.0,30,$,63116.0,jNomt0h259DYpwkrVslqTA
+528,River Des Peres Yacht Club,4.5,38,$,63111.0,7m9QY137WtxvdhgSUdetaw
+530,Old St Louis Chop Suey,4.5,62,$,63116.0,DgLwvHu6wNt2SrFvE5xxHQ
+531,Diana's Bakery,4.5,85,$,63104.0,WDOjluN4QeTnjt4E6DmIYQ
+532,The Heavy Anchor,4.5,40,$,63116.0,7dA1OhjJ0ga063_uiiDw3g
+533,Crusoe's Original,3.5,79,$$,63111.0,1Gm0k-SzLB-jTZxVxuvcOg
+534,Chaparritos,4.5,86,$,63118.0,JrYWF3BWf1GYk8hnF2Cz4w
+535,Go! Gyro! Go!,4.5,42,$,63116.0,FF45pKN_lzqG8Bqk-_HQvw
+536,The Haven,3.5,92,$$,63116.0,XMGjDIAFbu9VSmWDs-Ev5w
+537,Dad's Cookie Company,5.0,28,$,63118.0,wDvsPzEg3uJoGXai_4y2AA
+538,China King,3.5,54,$,63111.0,1E21KhW87jqQGuzYSxG_xQ
+539,Lily's Mexican Restaurant,4.0,107,$,63109.0,ohs__H1zNoF4CAjrK1s3IA
+540,Monte Bello Pizzeria,4.0,62,$,63125.0,9KatEMj8pRNPCMVi5U2Vdg
+541,The Whiskey Ring,4.5,61,$$,63118.0,HKd_govZmrGP90cEr89hXg
+542,The Taco and Ice Cream Joint,4.0,139,$,63118.0,cEgsHkAnpYQbA60pIIZYKQ
+543,Ted Drewes Custard,4.5,267,$,63111.0,rsDFJ05TiW7yBMdVuQ2tQQ
+544,Das Bevo,3.5,128,$$,63116.0,EJ0t-DhlxWaMz2txzO7WVw
+545,Elaine's Classic American Sandwiches,4.5,54,$,63118.0,mduxUVqfm9Xv7gkgjk_xQQ
+546,Bar PM,4.5,12,$,63111.0,ONuqYwEjR0WOSeVf0km1Jg
+547,Foam,4.0,73,$,63118.0,Xd3TetLYlPfiIbYA4EpGMQ
+548,Dragons Place,4.0,36,$,63116.0,9OH9xOearyJrCPXL9xOImA
+549,Cibare Italian Kitchen,4.0,47,$$,63125.0,r1n7prN3Q2XQ9oPYstyr_Q
+554,Pi Pizzeria - Delmar Loop,4.0,605,$$,63112.0,MaYb7qMN6BomP1zQGj3Wjg
+563,Fork & Stix,4.0,311,$$,63112.0,ANTj0UD-OS7Zod3mulUg6w
+573,PuraVegan Cafe & Yoga,4.5,131,$$,63112.0,-rCB_kCW-u84S-CQir-lng
+576,Tavolo V,4.0,204,$$,63112.0,-W0tnXYJ4WuxLjzmbwlVAQ
+579,Blueberry Hill Restaurant & Bar,3.5,565,$$,63130.0,sXaiyPC1fT6ESl-6t7eSXg
+583,Al-Tarboush Deli,4.5,112,$,63130.0,ksVNbLJtHk7OXvpG-j_N-g
+585,U-City Grill,4.0,181,$,63130.0,-hto0uJjh8KFQZGc9ZAcuQ
+590,Gyro Grill,4.5,70,$,63130.0,gdDUtIhG4tTshh2LbpfMfQ
+593,Gokul Indian Restaurant,4.0,164,$$,63112.0,VcamrM5awvkJrvkBgUNaIw
+595,HopCat - St Louis,4.0,150,$$,63130.0,3qpubK1C8SsDcq8BeKOEbA
+598,The Blue Ocean,3.5,301,$$,63130.0,_c72muPOhnfUqLRBNIAAcQ
+599,The Baked Bear,4.0,106,$,63112.0,QJiA9H2GMdp0Ge1zmQpwLg
+642,Like Home Comme A La Maison,4.5,68,$,63108.0,-ltRJOR-r7MhOh7g48HQwg
+651,Chef Ma's Chinese Gourmet Restaurant,4.0,174,$$,63114.0,_pzBF2sn806Zm-tRLCPXEg
+652,Chimi's Fresh-Mex,4.5,106,$$,63114.0,Vv5Fxre786NpKFR_3OduKw
+653,Haveli Indian Restaurant,4.0,303,$$,63132.0,tMMk972zper40EfQo8v0sg
+654,Tai Ke,4.5,246,$$,63132.0,EF_9W5s9lFSjv4forNxwng
+655,Chuck A Burger,4.5,105,$,63114.0,U0sjKBnSMN5SnWd_xU4GrQ
+656,Sides Of Seoul,5.0,75,$,63132.0,tc3g7TdhTgGqI8D8Rj_10w
+657,Cate Zone Chinese Cafe,4.5,197,$$,63130.0,S87d-VjLFY8ZMoj6MUo_tg
+658,O! Wing Plus,4.5,110,$,63132.0,SNQ8sn7R9_e92GWKMCNSgg
+659,Taqueria Durango,4.0,180,$,63132.0,4lm1dUvP7GPgyJqUlLxcYg
+660,Dao Tien,4.0,190,$,63132.0,NYcXibc_RzSI7wgGbidi8w
+661,George Rivolo Diner,4.5,28,$,63114.0,gD2sF9BKMP428y1NJEiPbQ
+662,Wonton King,4.0,251,$$,63130.0,DT_ZjeS2ZvBuzZvt9h48fg
+663,Maria's Deli,4.5,46,$,63114.0,7iL_h9OsbW0T7MiiLbrbAA
+664,De Palm Tree,4.0,151,$$,63132.0,ZRSVqYaoo3VMvthb2QEJmw
+665,Skeeters Frozen Custard,4.0,47,$,63114.0,gRNBy7lRv1QVsYkEOTYarw
+666,Seoul Garden Korean Restaurant,3.5,294,$$,63074.0,9llupBLdHKFzfawIk6I74w
+667,"Saint Louis Halal Meat, Grocery & Foods - Baba's Restaurant",4.5,46,$,63132.0,YSuVRABFuPIy8N91x2yg5Q
+668,Nick & Elena's Pizzeria,3.5,72,$$,63114.0,buP98xgFQrgutle85Llqag
+669,Pho Long,3.5,233,$,63132.0,aDm4JESclYP_L2tY_sqaDA
+670,Asian Kitchen Korean Cuisine,3.5,172,$$,63132.0,jPewcmlW0MSV5TezEllWtw
+671,Nobu's Japanese Restaurant,4.0,138,$$,63132.0,q5dSzxE6grwCzu23_PlesA
+672,Busloop Burgers,4.5,80,$,63074.0,s5IM5Ra60RfRGdL643w74Q
+673,Szechuan Cuisine,4.5,59,$$,63130.0,8Zfo-9ZQWwC85wyBcRDb_Q
+674,Fallon's Bar & Grill,4.0,125,$$,63132.0,lOZxgiTD0KBCaECdL1eWHA
+675,Soup Dumplings STL,4.0,111,$$,63130.0,Gw_PUqVT9e4AiC_kj9BJJw
+676,Big Jay's Fish Chicken & Shrimp,4.5,42,$,63114.0,y38HeTHdVNPUzd6duJBsJA
+677,Bandana's Bar-B Q,4.0,188,$$,63074.0,OrzCInxEE8FlVYO-U5wemA
+678,Olivette Diner,4.0,139,$,63132.0,xmyyCbcUhXaiYqzejO0Sgg
+679,Cube Tea Studio,4.5,59,$$,63130.0,DmAQI7yLLqQMNNztUbqtsQ
+680,Frank & Helen's Pizzeria,4.0,111,$$,63130.0,9vRUeYP5iTr0-uYMCD3TCg
+681,I Love Mr Sushi,4.0,125,$$,63132.0,oeGv2lfbSMfwZ0x7jvOQdQ
+682,Mandarin House Restaurant,3.5,170,$$,63130.0,mwZNtMYxbubcBq2nc9XG2A
+683,Las Palmas Mexican Restaurant,3.5,94,$,63132.0,Yvft9JHTRTIB2bgs4OZxsA
+684,Lu Lu Seafood,3.0,298,$$,63132.0,amhuju5Y6dYUKFjT3fFkLQ
+685,Woofies,3.5,59,$,63114.0,YOjYoIWMBFPwFYTcOpp5gg
+686,Irie Eats,4.5,29,$$,63132.0,n7yvQCdGZfAnLUrmGrq_kg
+687,KC Chinese Rotisserie Restaurant,4.5,37,$$,63132.0,PMy0RHS1kBn21rawoOWfow
+688,Share Sweet,4.5,41,$,63132.0,QnKuifVndllMMQzrYqGFCA
+689,The Mad Crab,3.5,144,$$,63130.0,jLaPtjlLfRSaoBWIcHcSQg
+691,Dollar Express Chinese restaurant,4.0,65,$,63132.0,S457rz-XJp56seb4vzMrEQ
+692,Royal Chinese BBQ,3.5,91,$$,63132.0,nCaieiIIxRwFc-kwzJohfQ
+693,Erio's Pizza & Restaurant,4.0,70,$,63134.0,FHlGmDE3eW9DASfwsOZiEw
+694,Chevys Fresh Mex,3.5,133,$$,63132.0,fEWUDSiySYTsD-QhltxUeg
+695,Wei Hong Seafood Restaurant,3.5,113,$$,63130.0,AzJxYiN1OmEphaCPMP2wWA
+696,MI Hungry Catering & BBQ,3.0,59,$$,63114.0,6SUvtHmZMW3rjn4hP73kWg
+697,Private Kitchen,4.0,46,$$$,63130.0,T7Mg8BZo1ZWpoiZP64D7-A
+698,The Waiting Room Bar & Venue,4.5,23,$,63074.0,W78D77Tudfl_nZQeKTh-uQ
+699,Golden Pancake,3.5,155,$,63134.0,AdXyxM8b14j6F4JZOQc3cA
+727,The Preston,4.0,107,$$,63108.0,5UyyV-cdNsXWz1V-xyIW6w
+729,Cornflower Coffee & Tea,4.5,34,$$,63108.0,EKBDN90FwKHr6F7_zzSCZA
+730,Brennan's,4.0,131,$$,63108.0,mjXIEy_xVd36aJqj9L2gBw
+731,Bar Italia Ristorante,3.5,218,$$,63108.0,_RTpa-9N1RW58StUeco9jA
+732,Shake Shack,3.5,307,$$,63108.0,n4PdRDOWgBOhke7AqCW3FA
+733,The Tenderloin Room,4.0,85,$$$,63108.0,OhHq33rmBih3fczFi8gSFQ
+734,Taste of Lebanon,3.5,155,$,63108.0,tuos6bve7ktOER5Fgz71-Q
+735,BBQ Saloon,3.5,211,$$,63108.0,jME5VhjMZvNKsQJwsPKL7Q
+736,Little Saigon Cafe,4.0,138,$$,63108.0,RBujFM-QxuMU_YorRW8_0Q
+738,International Tap House,4.0,96,$$,63108.0,jXfcUCuL_zGruGMM71rI3Q
+739,Levant,4.0,51,$$,63108.0,Zesu8Ev49wxB9oMmyvk0_w
+740,Bar Louie,3.0,443,$$,63108.0,HFzi6UElerU4iPGXLSbwPw
+741,MaryAnn's Tea Room,4.0,61,$$,63108.0,tpSAVc6bvo9cHOrzwDQycw
+742,Shapiro's Market,4.5,37,$,63108.0,DgLD56oDP0jMizXmgWmeug
+743,The Vino Gallery,4.5,27,$$,63108.0,610aROmrY10c6xLN7U8ebA
+744,World Chess Hall of Fame,4.5,31,$,63108.0,SqotldKH_1on5awOUwHhmQ
+745,Country Girl's Pie Shop,4.0,19,$,63115.0,0KwD4kiiIPoTOrHXVxwTyA
+746,Shell City Crab Shack,3.5,55,$$,63113.0,Yy7oNvAgFKRjl2u35HwepQ
+747,The Dark Room,3.5,90,$$,63103.0,SzfTqvO-ldzmh4LA5luKUg
+748,West End Wok,3.5,95,$,63108.0,Z_7P0pQYeMrGlC1vnOtEAg
+749,1764 Public House,3.0,146,$$,63108.0,OZ3ncfIHMQgSoxVCXKRxbQ
+769,Meskerem Ethiopian Restaurant,4.0,319,$$,63118.0,myg9wV_3IgHGa-pVKVjijA
+772,The Vine Mediterranean Cafe and Market,4.0,463,$$,63118.0,BmKCJsV_payJ5ANqC7i85g
+774,Gelateria Del Leone,4.5,242,$,63118.0,p7UGlPkE3Gagm9Mq7aHfYg
+781,Brasilia,4.5,182,$$,63118.0,MT7IZwROgzr0HgJHHxBaMA
+784,King & I Thai,4.0,434,$$,63118.0,89SD5fNDDnJj-ITB40hLsQ
+785,Cafe Mochi,4.0,394,$$,63118.0,DKyJMM2209QrTgclzoCUpw
+787,Cafe Natasha's,4.0,256,$$,63118.0,Yu3z-6kGRTYg82F7wRmvPA
+790,The London Tea Room,4.5,129,$$,63116.0,ubNXgh90PKODEWzVnXrFyA
+795,Blackthorn Pub and Pizza,3.5,397,$$,63116.0,JgTSG4rIDf20Kgp6U_asng
+798,Hartford Coffee Co,4.0,195,$,63116.0,jDO4n9lAZNlQTcTFEObfyg
+799,Sheesh Restaurant,4.0,185,$$,63118.0,oMUBdWkgMD1Yhiyx9-BC9A
+809,Twin Oak Wood Fired Pizza & BBQ,4.0,314,$$,63144.0,wCxiDaOI0LVWdqUEWoPv_A
+825,The Blue Duck,4.0,187,$$,63143.0,z7em5co2qckbAXoDGXynsA
+828,Boogaloo,3.5,373,$$,63143.0,QWENxNxNNW2jhQi2akONJA
+830,Revel Kitchen,4.0,130,$$,63144.0,lpDctDItk9GkfZD-cZ6oQA
+832,Yummi Tummi,4.5,112,$,63143.0,S51xnoezpcCY8jd96_hXfQ
+833,Michael's Bar & Grill,4.0,202,$$,63143.0,ISDVzdF4WZ4SXQdhyet9nQ
+836,Maggiano's Little Italy,3.5,334,$$,63117.0,6r9FNW0-4aKqbPCX7UxTZg
+844,Pan D'olive,4.0,168,$$,63117.0,7apWV3_bxbRcC2MemII9dQ
+845,Coma Coffee Roasters,4.5,76,$$,63117.0,8JRdV8M8b2bIZGH92gMQ0Q
+846,Gus's World Famous Fried Chicken,3.5,307,$,63143.0,_H30_Y_YcQQ7kbix9a1KfQ
+847,Olympia Kebob House And Taverna,3.5,291,$$,63117.0,m0bREye3nKAWWItFxQkTdQ
+887,Yemanja Brasil,4.0,170,$$,63118.0,eVUP_iOwvsLk6daEmyhESA
+895,Ernesto's Wine Bar,4.0,139,$$,63118.0,PcR2ObZX6IAYLE9HiUcG1w
+898,MoKaBe's Coffee House,4.0,307,$,63116.0,Nvx2MceKWAtikcAxk_TBMg
+899,Gus' Pretzels,4.0,186,$,63118.0,YYqRjbCVyoRfTV1R16eqxw
+900,Olive + Oak,4.5,586,$$$,63119.0,_4bhVmlvT9dvqydQG2TOMA
+901,Balkan Treat Box,5.0,159,$$,63119.0,sWwVGF9k30IDE4Lpa-XM8g
+902,The Clover & the Bee,4.0,243,$$,63119.0,Nxa362GcR1WWK2og8uJ_sQ
+903,Katie's Pizza & Pasta Osteria,4.0,591,$$,63119.0,C6KP0hSutumHzLDCFyjvJQ
+905,Sushi Station,4.0,222,$$,63119.0,wpmuB2jeDkczlmT0SNIFPA
+906,Big Sky Cafe,4.5,234,$$,63119.0,7qMmN_FB0JJ-8MPNfHwhsA
+907,Cyrano's,4.0,270,$$,63119.0,uqXYVxIwoEsFFjEHBlMZQA
+908,The Block,4.0,267,$$,63119.0,qhsJbgxVNDb0973r3Gjrow
+909,Robust Wine Bar,4.0,228,$$,63119.0,nGElMRWr0BcQKFPa4ZBMYA
+911,Hwy 61 Roadhouse & Kitchen,3.5,346,$$,63119.0,cCMYCWvvYFQbAbEY4Gnrxg
+912,Serendipity Homemade Ice Cream,4.0,169,$,63119.0,vRj1rgF4ZpwGt97MbcRzqg
+913,Carl's Drive In,4.0,236,$,63144.0,sikefl5Nj00MNQ1OUyCEcg
+914,The Frisco Barroom,3.5,216,$$,63119.0,RcsTutp1103SGiYtam7xRg
+916,Yolklore,4.0,205,$$,63119.0,6FvC6w810uf6O7Ocd6Wpog
+917,The Boardwalk Cafe,3.5,155,$,63119.0,JkBiCY04rSSAa7qrawqUsg
+922,Porter's Fried Chicken,4.0,181,$,63143.0,vs0oc4GRG0bUwpTdJ_tjlw
+923,Tei Too,3.5,122,$$,63119.0,V7-YzHrBVY8lLHaG_kS7AQ
+924,St. Louis Wing Company,4.0,136,$$,63119.0,GlUp8Ls2x2vToByiAtSnYw
+925,Krab Kingz Seafood,4.5,93,$$,63119.0,iF2WYnjnWg0-wxEw7daBgQ
+926,Nothing Bundt Cakes,4.5,44,$$,63144.0,G503RdNVGztzLuBfNY4l3A
+927,Joy Luck Buffet,3.5,262,$$,63144.0,7glfum-JcIAjxD5fJ92Wig
+928,Kolache Factory,4.0,131,$,63144.0,P1rfYX62C_HD4t3TjO41BQ
+929,King Edwards Fried Chicken,4.0,123,$,63119.0,nkzhe-nViX6e-lBdhDLbGg
+930,Z E N Thai & Japanese Cuisine,4.0,192,$$,63126.0,DkePId_VZgMx7skQ7aqMGw
+931,Nachomamas Tex-Mex,3.5,253,$,63105.0,xSn2d1RTvK7e4KM0bI2NLg
+932,Lucky's Market,4.0,69,$$,63119.0,pSNZ_qDBzWQQEL0HHuukEw
+933,Frank Papa's Ristorante,4.5,86,$$,63144.0,l9vdM2DtlJo3EYpxgW-efQ
+934,To Go Sushi,4.5,56,$,63144.0,sJxAu8aWvuz2_ZnF7_8myA
+935,Webster Groves Garden Cafe,4.0,31,$,63119.0,OvLTP11dUnsE3UrfJwUe6g
+936,Fort Taco,3.5,165,$,63144.0,qSy3Ue3KlzFFXBKwZTbofg
+937,Himalayan Hut Restaurant,4.5,59,$$,63119.0,bKbvmpGy_L96qVtNeR_HNA
+938,Global Brew Tap House,4.5,43,$,63119.0,DDyaqt59uCTY_SOwfQ4qqg
+939,Webster Garden,3.5,76,$,63119.0,1TEEvTBN-41nOpFFd1vmOw
+940,Jet's Pizza,4.0,43,$$,63119.0,5MTmUITf21K6iO3rhzha2w
+941,Farotto's,3.5,146,$$,63119.0,wlORwhEzCTEHari93WKc4Q
+942,Bonefish Grill,3.5,275,$$,63144.0,VUkBbffnuUpKX9MKRUt4yQ
+943,Fuzzy's Taco Shop,3.0,290,$,63119.0,IdIOZSbnLRcN1dG5PDXDeA
+944,Amighetti's,4.0,74,$,63119.0,dNC6G1FhDVQA5D58Oyg06g
+945,C J Muggs,3.5,88,$$,63119.0,r5dUIJJwaChqvIjGkUJtfw
+947,Webster Wok,3.5,80,$,63119.0,aSfbQpDswUF18wT5pTFB9g
+948,Hacienda Mexican Restaurant,3.0,329,$$,63119.0,2CrM7eYAT_vnEQnd2zTf6Q
+949,A'mis Italian Restaurant,3.5,99,$$,63119.0,9zmXopNy7R1tOyDOYueM5g
+950,Roper's Ribs,4.5,78,$$,63136.0,a3bZJ-XVjDLS6cs5VuEFOg
+953,Imo's Pizza,2.5,55,$$,63115.0,ZxYFj8qagM3LYqd-SlDrgA
+956,C & K Barbecue,3.0,24,$$,63121.0,ndrcxVKd-z_M-GiG5w8kYA
+958,St Louis Q,4.0,14,$,63136.0,VV4l-yVqI2RDR0PYt6QDlA
+959,CBS Barbeque,5.0,5,$,63120.0,hNYgEnEfGAvHyuHuMHsWMQ
+960,Jaden's Diner,4.0,17,$,63113.0,8CnKudR0MeSCIQVDuVs_WQ
+961,London's Wing House,3.5,21,$,63133.0,CEsFAZp1pBf3sicoZa9AYw
+962,Lisa's Chop Suey,4.0,14,$,63136.0,mMYOD9QWfYXo1LY2RPEN7A
+963,Slice Of The Hill,4.0,19,$,63110.0,Nt6YIbkXIwoOj-omc9Sqgg
+964,St Louis Fish and Chicken,4.5,6,$$,63112.0,FTsU1vykdDcqfP1uhqG9YQ
+965,Velvet Freeze Ice Cream,4.0,11,$,63136.0,wdHEsSUZGjgfaFKMABXPUA
+967,Yet Bun Chop Suey,4.0,4,$,63120.0,YgO7Rsia2ggQQ8uOGvKWTQ
+968,Mom's Kitchen,3.0,13,$$,63112.0,6tyCAUL8uW3zuWKmncim5A
+970,Billy Burk's Snack Shop,4.5,5,$,63113.0,_kMxqmHYnF1LhTvHioykQw
+974,Destination Desserts,4.0,14,$,63146.0,byL9LvjgOvtzXn7mPxbPhA
+976,Mandarin Inn,4.5,3,$,63115.0,K-WNeHq2Mg3nZITLAlblAA
+978,Rally's,3.5,3,$,63120.0,Q1NSVwckGLJwwxq662_chA
+979,Andrew's Bayou Ribs,3.5,17,$$,63074.0,wUgLa3cdhlDdqUfgwZNZKw
+980,The Bridge Coffee House,4.5,16,$,63301.0,Vil6Ox7d0GXkKHIzztyUfA
+981,White Castle,2.5,6,$,63115.0,Wr7YltZMo8F_so4faYZ-Og
+983,Domino's Pizza,2.0,11,$,63130.0,vPyB_H1wI36ifo1RC4QI4g
+985,Hawaiian Grill,2.5,7,$,63113.0,JgfOdxzSOYjoeXGyWjXdSQ
+987,Subway Restaurants,3.0,2,$,63115.0,JEGW-Zxhji2bFi9cUHNbLg
+989,Lee's Chicken,4.0,1,$,63115.0,qWTvDF-7K0ef2SONSnvORg
+990,Wendy's,2.0,6,$,63115.0,_tVkMEnHDySlqugveOxBHQ
+994,Burger King,1.5,4,$,63115.0,ulEXVQlj2nyLcKzgZSFlcA
+998,McDonald's,2.5,3,$,63115.0,6FNfW_9YaP5Fm7tE1caLyA
+1000,Drake's Place,4.5,79,$$,63135.0,2DWqlmcMV9CxzUDYhzY04Q
+1001,Cathy's Kitchen,4.5,136,$$,63135.0,YmUVCO5-ZdSenHVKEJE1rA
+1002,Breakaway Cafe,4.0,49,$,63121.0,mVH_1mDS53jCWsvww4IX6w
+1003,Faraci Pizza,4.5,37,$$,63135.0,mGvrybwAiigeSAn-sTNlCQ
+1004,Baked Wood-fired Pizza,4.5,23,$$,63135.0,RwDotPR4zBeNJKaPGUBjVg
+1005,24:1 Coffee House/cafe,5.0,16,$,63133.0,LMeczyPxu7WZNi3HKWGoUg
+1006,Cork Wine Bar,4.0,44,$$,63135.0,Hn5wSB6hKqKs-_fzAIocJA
+1007,Montrey's Cigar Lounge,4.5,23,$$,63135.0,8GjqBLemPdZjHyk3-Zio7w
+1008,Miami Grill,4.0,22,$,63136.0,uMjfvnKnxdgrjHym-JKRYQ
+1009,Gypsy Caravan,5.0,6,$$,63121.0,IKNzIuxHAfj1UGyvvzOENA
+1010,Smokehouse BBQ,4.5,20,$,63133.0,q2KDB3Yiq0y4H-5dcQj7tQ
+1011,Marley's Bar & Grill,4.0,31,$,63135.0,ytKmelXAM4uqR2dtQX8n8A
+1012,Vincenzo's,4.0,36,$$,63135.0,INGFx5d5dnmhw0wfkDqx2g
+1013,Ba-Da-Bing BBQ,4.5,14,$,63133.0,lMP6nTVHwLv15Nvzs1SDjA
+1014,Chinese Express,4.0,13,$,63135.0,QEF6usO04AtvrazPhLX_sw
+1015,Lee's Famous Recipe Chicken,4.0,6,$$$$,63121.0,uZLV2aXSgwtHXZkd2HE9pA
+1016,Fried Rice Kitchen,5.0,6,$,63133.0,iEtmEkeEjxRTjQa8q08RdA
+1017,Northland Chop Suey Chinese Restaurant,5.0,8,$,63136.0,31_JqV2ZinZ7Uo4DKiKFEQ
+1020,Year of the Dragon,3.5,7,$,63121.0,mNYiaagB7eaz5Ld0NkTdaQ
+1023,Red's The One And Only BBQ,4.0,13,$,63135.0,92KvPIcfrxpf_0gGUpnC6g
+1025,Oriental Chop Suey,3.0,6,$$,63121.0,-fciE0b98A43i04VIEDlgw
+1029,Einstein Bros Bagels,4.5,3,$$,63121.0,vl1kibN019pO98Mo6njPMA
+1030,Cafe TJ,3.5,5,$$,63121.0,FL58ckZZ-jB5DgJQKpHqcQ
+1032,Wingstop,2.5,6,$,63121.0,X_8cpc1p7R6KhFFKt3OkTA
+1038,Chinese Gourmet Restaurant,4.5,4,$$,63135.0,FisWFoKzPThKirL5wl7p3g
+1043,Chung's Chop Suey,3.5,3,$,63133.0,OSskE8Gra25FzNe6KvfyjQ
+1047,Quiznos,3.0,4,$$,63135.0,TNs3EFZOTZozmyyW4x1IJQ
+1050,Nathaniel Reid Bakery,5.0,343,$,63122.0,IO3apWfFnKPO2XRFmGfTEw
+1053,Billy G's Kirkwood,4.0,405,$$,63122.0,wQ9qT09OlsoMXEtGHqX0vA
+1054,Citizen Kane's Steak House,4.0,186,$$$,63122.0,i73KneB_vmOBaBW8JjIoNg
+1055,Spencer's Grill,4.0,136,$,63122.0,b2FwlYZiMKEB95fFhLEqWw
+1056,One 19 North Tapas and Wine Bar,4.0,158,$$,63122.0,1HRAmY7rTMKaY9-rNrppzg
+1057,Twisted Tree,4.5,325,$$$,63127.0,gBGD0dNvfLlQOAaZzCU1NQ
+1058,Andy's Frozen Custard,4.5,66,$,63122.0,cf5vLyeHZ8EZzxD4SkUjVw
+1059,Peppe's Apt 2,4.5,133,$$$,63122.0,RSjWctdGtsatc6NwQxg_mw
+1061,Club Taco,4.0,187,$$,63122.0,ee-2Z5tuo9bUbe9ZDgNgbQ
+1062,Symbowl - Kirkwood,4.0,224,$$,63122.0,bdoSOSj1LPSAlNoKezVdLQ
+1063,Amigos Cantina,3.5,217,$$,63122.0,jOUSxBXomtgJQbrapKU3SA
+1064,Cafe Provencal,4.0,99,$$$,63122.0,62pABDhLkUPAcNgxum_mpw
+1067,Great Harvest Bread Company,4.5,40,$,63122.0,IU8Ehms54P1_NV-9uMBSyA
+1068,The Barn,4.0,277,$$,63126.0,-q4YqKsWJY6NtkQdnNeL1Q
+1069,MOD Pizza,4.5,60,$$,63122.0,2zscMai3s2qePfovwetPcg
+1070,Vitale's Deli,5.0,42,$,63122.0,JmD-3ceuZ7Alieh1LB_nDA
+1071,The Greek Kitchen,4.0,61,$$,63122.0,S9ufIJaPSq-Y5bRidcaDWg
+1073,612 Kitchen & Cocktails,4.0,113,$$,63122.0,BWh8oUADBbFTefhBZg5trw
+1075,Comet Croissanterie and Creamery,4.5,31,$,63122.0,6oeFoOXBcembgDTExuYYww
+1076,Custard Station,4.0,46,$,63122.0,lj--ezYgqdGv_0YF5Gf84A
+1077,Kirkwood Brewhouse,4.0,115,$$,63122.0,HP5nQhKlKUW4WMg-lieQRg
+1078,Smallcakes,4.0,42,$,63122.0,VXR10qr90p0hTK0cmGWZhA
+1079,The Daily Bread Bakery & Cafe,4.0,97,$,63131.0,-bGw8ARHQucKWEHEkxpGFw
+1080,Circle 7 Ranch,4.0,143,$$,63131.0,Mbkt43sUBsvXRxmrJrZFhQ
+1081,Pretzel Boys,4.5,61,$,63131.0,Ff8fi7exgp62yzmAIkV6Ow
+1083,Kirkwood Deli and Convenience,4.0,33,$,63122.0,hMf-ZXlS2T6qjqUXxTDvkg
+1084,Blues Fired Pizza,4.5,43,$,63122.0,n_UrYjNafyzDCRcwiugnJA
+1085,Jason's Deli,4.0,67,$,63122.0,SozL05URoilikZaXJWmjDw
+1086,Sapore Italian Cafe,4.0,60,$$,63122.0,Yq39gBGkSj4M_wDlBAu5qg
+1087,Racanelli's,3.5,58,$,63122.0,izRHzOCcOpiB0B2wqIJDzw
+1088,Cornucopia,4.5,19,$$,63122.0,azp2wLevlaVODNk26MDfEA
+1089,Sunset 44 Bistro,3.5,52,$$,63122.0,VrGxoSNZfSiT-G4OqRRGIw
+1090,Honey Pit,3.5,106,$,63122.0,eFXXx43yxvDJ0E9Jg-QP2g
+1091,Kirkwood Ice & Fuel,3.5,57,$$,63122.0,e6Sfya5us64PCBK42hCG-w
+1092,Chick-fil-A,4.5,64,$,63131.0,qWzBt1r0P_FjiinIAGFtoA
+1093,Tokyo Sushi,4.0,108,$$,63127.0,vdR9dCBu7snPWHnWVV8XxA
+1095,Mellow Mushroom,3.5,285,$$,63127.0,oiD4N-h7GotnsiXEa4Er5g
+1096,Sesame Chinese Restaurant,4.0,122,$$,63127.0,wVykyNJZPyMqxCBpesXRZQ
+1097,PJ's Tavern,3.5,50,$$,63122.0,AK5AQ8TSpLXmjflYbrN_Sw
+1098,Texas Roadhouse,3.5,98,$$,63122.0,40ovn6SAc5c7v84bRzpB2Q
+1099,Mike Duffy's Pub & Grill,3.0,73,$$,63122.0,4iAVzKDdK2j7GJK6ZK6Gtg
+1100,Sushi Hana,4.5,93,$$,63123.0,faReoVCPuY0XUE3CSIVsAg
+1101,Breakfast and Burgers,4.0,143,$,63123.0,ZNZcptwIHne1PDcHaMbA-A
+1102,Federhofer's Bakery,4.5,53,$,63123.0,Nt1_8k5BJDE03jRs23YXsA
+1103,Bommarito's Pizzeria,4.0,59,$$,63123.0,iDL_412a-SHChFoCDE4R9Q
+1105,Affton Diner,3.5,66,$,63123.0,fBO0Cb-tbx5fvaWsp4sKtw
+1106,The Clubhouse,4.5,21,$,63123.0,e4PSH9i63Tg7AVBhfli5FQ
+1107,SharpShooter Pit and Grill,4.5,43,$$,63123.0,duaBfE0uvFBgKeeQnhXkWw
+1108,Sam's Steakhouse,3.5,126,$$$,63123.0,OiEsbS3bLm1gXK7k9kBu1Q
+1110,Thai Orchid Restaurant,4.5,76,$,63125.0,i943AcReAf5-1OjVOZdPSg
+1111,Syberg's Gravois,3.5,115,$$,63123.0,a5KwXU9ddmlY-PtZSkp-cw
+1112,Fortel's Pizza Den,3.5,86,$$,63123.0,BtTVHiY1AH5iHzTlx5HqZw
+1114,Las Fuentes,3.5,73,$$,63123.0,CCgn9tqrqojxs6knwwANMw
+1116,Bartolino's South,4.0,93,$$,63123.0,NBQ3cohPneJe1I40O9QGuw
+1117,The Pasta House,3.5,44,$$,63123.0,cXEx8dhmoFZcsJjXS2lLuQ
+1119,Sedara Sweets & Ice Cream,4.0,25,$,63123.0,UleHqBmIEjXdYMZzSFRLAg
+1120,Berix Restaurant,4.0,80,$,63125.0,sece3MulAu81rJORM3qXQQ
+1121,Uncle Leo's Pizza,4.5,41,$$,63123.0,6uDjRpAfvKIEWuI1auLpkg
+1122,Happy Joe's Pizza & Ice Cream Parlor,3.5,56,$,63119.0,AK_QY3p8IwFQVoam6XVCvQ
+1123,El Maguey,3.5,91,$,63119.0,rtJv8aLpoTiQPkPSGwclWg
+1124,Courtesy Diner,3.0,68,$,63123.0,REJIo5tSCx85ed7ReVHElw
+1126,Dingho,3.5,35,$,63119.0,UtfRoSHPShDwNBc1lLlZbw
+1127,A Taste of China,3.5,20,$,63123.0,SEMZDefzxY3v4SUYdaa0XQ
+1128,Social Bar & Grill,3.5,43,$$,63125.0,0q27L4aOGuXyQ1Eo-IOY0Q
+1129,Biser Euro Market & Grill,4.5,15,$,63125.0,uRd7FZswDJ17-G-xQACLmw
+1131,Dairy Queen,4.0,8,$,63123.0,38-Yn0vVUUohcv5sYVrypQ
+1132,McArthur's Bakery Cafe,3.5,66,$$,63125.0,y-XX_c8EVK4m3oQda42Y3A
+1133,Ari's Restaurant,3.5,41,$$,63123.0,gECyO9S9P3wQEgVZIjR49g
+1136,Weber's,3.0,21,$$,63123.0,oCzJCQZmlSjvktGE4OVzIA
+1137,K-Bop STL,4.5,36,$,63017.0,lgu_KwQLd8TX2ewsNIzsjA
+1138,Cecil Whittaker's Pizzeria,3.0,18,$,63123.0,sUB7GCmKU23BHZEj5GRvyQ
+1139,Glaciers,4.5,9,$,63119.0,9dcZSQqe8baUnqw0rNRPQA
+1140,Starbucks,3.0,12,$$,63123.0,rYTdFa_sH5eE41wfg9LMhA
+1141,Red Lobster,3.0,44,$$,63123.0,oAenM-Xo_mBBP7neS7NKpA
+1142,Hotshots Sports Bar & Grill - Webster Groves,2.5,43,$$,63119.0,SxJmHHYIAd8iuZXkO7fKQQ
+1143,St. Louis Bread Co.,3.0,15,$$,63123.0,O8xd0PQZfwHIIZhNRmZ_5A
+1146,Reavis Pizza,3.5,12,$$,63123.0,Q_MB7wYcdqofij4ls7T01g
+1147,Jimmy John's,3.0,10,$,63123.0,fQ2493mVgIh-cuhoL2FjzQ
+1148,China Garden,2.5,30,$,63123.0,uFr4OHCMb0QOIHeoIrkeQg
+1149,The Cheese Shack,4.5,23,$,63044.0,nP6faW-CF50mPG2ziRAc4Q
+1151,Truffles,4.5,130,$$$,63124.0,33l2XVp01d8kltTs_UMJ8A
+1156,House Of India,4.0,275,$$,63124.0,Yz4BD3vf8-d14j2T2FgYxA
+1157,Jilly's Cupcake Bar & Cafe,3.5,435,$$,63124.0,AtQLrRpQan7UtJcIAo9hsA
+1158,Companion Ladue Cafe,4.0,146,$$,63124.0,cN8F-BmoHoS9eCqIHMtlHA
+1159,Kreis Restaurant,4.0,195,$$$,63131.0,QsxDgLLRXaneBe5DelFpOw
+1161,Lester's Restaurants,3.5,151,$$,63124.0,EmN6j5PKKUL7DkXnM267aQ
+1162,Sportsman's Park Restaurant,4.0,77,$$,63124.0,kdG6HXfXPk6YKZ6lkURaEg
+1167,Weber Grill Restaurant,3.5,259,$$,63117.0,GYnRaQbuxhUA6R4h1WyJ9A
+1171,Giovanni's Kitchen,4.0,73,$$,63124.0,bnyT03UR23AWNGN9EJFrAQ
+1176,Deer Creek Coffee,3.5,62,$$,63124.0,3H_MN2ecWlBLsUBWrjs8xA
+1180,Schneithorst Restaurant & Bar,3.0,194,$$,63131.0,gSLWjGwRqXSq5HzsoP183g
+1191,Sugarfire Pie,3.5,78,$$,63132.0,8KN5z81q3RjO-aKFdgvNWw
+1193,Shu Feng Restaurant,3.5,91,$$,63132.0,98MWGHFybDPH1lcTIJp9DA
+1194,OB Clark's,3.5,83,$$,63144.0,08LQAC48MVFa27YZKahEkg
+1195,Trainwreck Saloon,3.5,98,$$,63144.0,BCPpFA_h3l4F73H7ouLrbQ
+1196,Godiva Chocolatier Galleria,4.5,18,$$$,63117.0,dUAtskhiZO-MQnCBJRBxxg
+1198,Bandana's Bar-B-Q,3.5,60,$$,63119.0,zBM-r0DMUBWlxGr1vEc7fw
+1199,Helium Comedy Club,2.5,97,$$,63117.0,uMgd8iyJUoCjC39f2qvqtg
+1202,Cafe Telegraph,4.0,200,$$,63125.0,4EbwDR58_1Lm54Oru_Dfxw
+1206,Jefferson Barracks Park,4.5,17,$,63125.0,1XsoLhxLB7-iyxaLpoEmUg
+1207,Mama Mel's Pizzeria,4.0,32,$,63125.0,PuCdocg7eh_IwSqhip_qUQ
+1212,Fergie's Bar & Restaurant,4.0,26,$,63125.0,HTR4v_7fnu6PyaQ1c6UEFw
+1220,Donut House,4.5,21,$,63123.0,8JoO_AUqcqjwHiMrRvaGIg
+1221,The Beerhouse,3.0,51,$$,63125.0,hJkkXDmu6woTWD300bw09w
+1224,Sno-Biz,4.5,11,$,63125.0,l7_TZBVibyGouWfx4oUU1A
+1225,Cusanellis,3.0,61,$$,63125.0,Iy_TKazJDFzKziuGedhz1w
+1226,1904 Steakhouse,3.5,38,$$$,63125.0,hW8A28dCywtE-HcLNEtjow
+1227,China Wok,3.5,29,$,63123.0,SwPoeln3QS9H9cVjHXVoQg
+1231,The Great Food Exposition,3.0,30,$$,63125.0,rQGqV0vSF_vhXA1LINBdBQ
+1232,Waffle House,4.0,14,$,63125.0,4gz6JurOLglDSf5pH4z1kw
+1233,The Dry Dock,3.5,11,$$,63125.0,WasJguDWjpFKcImCRxYsCQ
+1234,Burger Brothers,3.0,20,$$,63125.0,Xpg6e0fJ7qkJJ--7jMQ_hQ
+1235,Great Wall,3.5,22,$,63125.0,ciRjqF7d8O3NE0lyE38QJg
+1236,Lemay Garden,3.5,12,$,63125.0,-xCC-SRYR8mA-_KU0Yi32Q
+1237,St. Louis Bread,3.5,24,$,63111.0,WPL_dsH4h6qy4wG9KjCbKw
+1244,Steak ’n Shake,3.0,25,$,63125.0,Vm2vdXFSZ7U746n4ySCVtQ
+1245,Friendly's Bar And Grill,3.0,16,$,63125.0,bP9wNL13Dekr9HM4el4T7w
+1247,Tucker's Bar & Grill,4.5,4,$$,63111.0,PDwrd7JqbD_SidQkOKHpxA
+1248,Pizza Hut,2.5,8,$,63125.0,YXroODUXRd961r093VJ6bw
+1249,Halfway Haus,3.5,6,$,63111.0,MUMufAyvPxftKqGsskbXdg
+1257,Trattoria Toscana,4.0,116,$$,63126.0,VioQ-O-wJYgrW1fta5nhug
+1258,El Agave,4.0,93,$$,63126.0,yxQGDJl2t0qrnVV4MO4f0w
+1260,Roberto's Trattoria & Chophouse,4.5,130,$$,63128.0,nfDNbJ3eWwudtQCyp2EpSw
+1261,San Jose Mexican Restaurant,3.5,113,$$,63126.0,3M2zIKwVz2J63SlNiirgVA
+1269,Soco's Gyros,4.0,112,$,63123.0,lB6jIOb1UBATmdfot4KJew
+1273,Liliana's Italian Kitchen,4.5,87,$$,63128.0,j45LjJpnaRyml9Jg0wEtCA
+1276,Joey Bs,3.5,174,$$,63128.0,h07Yfix2ynwn9fJ3proGXQ
+1280,Rich and Charlie's,3.5,79,$$,63126.0,GTO6Nyh9oZDDSySDG4ogNg
+1281,Feraros Jersey Style Pizza,4.0,83,$,63128.0,fjBjgnxn51VW04F7wgBK2g
+1282,P'sghetti's Pasta & Sandwiches,4.0,80,$,63123.0,24_GowpZ79St53rpxsKqsQ
+1286,The Concord Grill,3.5,139,$$,63123.0,ujGvu5TdENPnAsarAw2x6w
+1289,Malone's Grill & Pub,4.0,39,$$,63119.0,gu1XBRHx0v4PvFKcEYX65Q
+1292,Culver's,4.0,33,$,63122.0,P1W_Tmz-JXx2aOB3TSmGVw
+1293,Helen Fitzgeralds,3.0,129,$$,63127.0,lNTXXh_vrIt705lqDlDp5A
+1295,54th Street Grill & Bar,3.5,125,$$,63126.0,DfYamqDQNS1RnzeWjOcGPg
+1296,Fuddruckers,3.5,72,$$,63127.0,c_cfKwpJz5GuPaNgBbFaIA
+1297,Fitz's SoCo,3.5,86,$$,63126.0,eQlMjyOsirwFCH8CiaKrjw
+1298,Blaze Fast-Fire'd Pizza,3.5,66,$,63122.0,yjP-n5RpuxsDZZwxDg-FUg
+1299,Five Guys,3.5,64,$$,63127.0,Gk_AGnkuSaOlYd6tzsVSqQ
+1303,Pad Thai,4.5,254,$$,63128.0,Mgaxy0pJAlhAjdNivhu82A
+1320,Walnut Grill - Sunset Hills,3.0,144,$$,63127.0,5EpFbQKQEnTEPIdZkQDQiw
+1327,66 Cigar,5.0,7,$$,63127.0,gJwkEWX0b0vxIKQX0_vbrw
+1329,LongHorn Steakhouse,3.0,71,$$,63127.0,lR_ka9JYYUpL3se5WnLs1w
+1332,Crazy Bowls & Wraps,3.5,44,$,63127.0,GC1XeEHiOLIi2SbNzsoGCw
+1334,Hsu's Hunan Yu,3.5,38,$,63126.0,Cq3pmXsd5k4Z9zPlYkTvxQ
+1337,Lion's Choice,3.5,26,$,63127.0,pRIaTc_z60jrY7qL0k0Iqg
+1338,Chipotle Mexican Grill,3.0,80,$$,63122.0,L8ny0WbdhoZSCicHh_fBCA
+1342,Chili's,3.5,55,$$,63122.0,bB-TEdPAZ2H_jL4lz_u5uA
+1344,Penn Station East Coast Subs,3.5,23,$,63127.0,LyV__1tUWO178ppBllENmg
+1346,Panda Chinese Restaurant,4.0,38,$,63122.0,7VgIPgIV5dDPnoQ8925X2w
+1348,Raising Cane's Chicken Fingers,3.5,35,$,63122.0,bsjW6a0dGa2jcIhAFhyUSw
+1349,Dunkin',3.0,53,$,63122.0,kWxZoWO-Nw9V_xBgUYrRgQ
+1354,Double D's Pizzeria,4.0,64,$$,63128.0,EAIFPr1cHc9lWh_vVPvORw
+1355,The Gyro Company - South County,4.5,90,$,63129.0,we1YC8nDW9V1H-BL_XMaRQ
+1364,Hunan Royal,4.0,33,$,63128.0,QT3kpKdyFrUFD7vuQWXbHQ
+1366,Dave's Diner,4.0,39,$,63123.0,tjvuAPVe8buQCDvtOsy3CA
+1370,Liu Shun Wok,4.5,27,$,63128.0,08kBMcufQMg-Dc9IouWIYQ
+1373,Dulany's Grille and Pub,3.5,50,$$,63128.0,lYOCnSPLrnpxlKtv0J09bA
+1375,Frailey's Southtown,3.0,64,$$,63128.0,mqpXIXRuaWdKhWmeNRCh9Q
+1376,Drunken Noodles Taste Of Thai,4.0,97,$$,63129.0,koU-NJTb-CSoCK-UI1uCjQ
+1378,Outback Steakhouse,3.5,98,$$,63126.0,3LSYzek9a1Xho8uPEFe29w
+1379,TGI Fridays,3.5,65,$$,63126.0,9KlzXZ4FKgoBA80zEyXO9A
+1380,Firehouse Subs,4.0,16,$,63128.0,ZIx2nJpkZCNTmx5_EqdroA
+1381,Hokkaido Supreme Buffet,3.0,122,$$,63128.0,zi0gBCtnESAbVKRNYHrKog
+1382,Cake House Design,5.0,13,$$,63129.0,ppzKevQp8Qb6-1V89mI7HQ
+1384,Tequila Mexican Restaurant,3.5,94,$,63129.0,4A_1kNLFVYmQ-zfz93huBg
+1389,Froyo Premium Frozen Yogurt,4.0,14,$,63128.0,Xd8yOTQEg_HtKI5Oc89TDw
+1390,El Maguey Mexican Restaurant,3.0,61,$,63128.0,FJjJM6eM94yY5kExmBpbuQ
+1391,Schottzie's Bar & Grill,3.5,40,$,63123.0,t15pblhsTMQqp7Rh7KgHVA
+1392,Olive Garden Italian Restaurant,3.0,72,$$,63123.0,IlVFBKxhiLstwEqDq3TP6Q
+1396,Murphy's On 21,3.5,16,$,63128.0,JgSysePfuL68hBo4wBEWvg
+1397,St. Louis Pizza & Wings,3.5,13,$$,63128.0,6NTEbrpMMfZydHUE1VoSQw
+1399,America's Incredible Pizza Company,2.5,78,$$,63126.0,qAFVEkIEo7KLLdM4z7h-JA
+1400,Cellar House,4.5,40,$$,63129.0,5dKDUPQaC7aMxqzMUsKXIg
+1402,Zito Deli,5.0,45,$,63125.0,uEPuXaBX0n37vmrYAe9kwQ
+1403,Frankie Gs Grill & Bar,3.5,82,$$,63129.0,6JekbYlD5cGNBEEhZRHKAQ
+1404,Sushi Sake,4.0,132,$$,63129.0,ZTh7O_meLI31wi1gA_nk8Q
+1405,Oberweis Ice Cream and Dairy Store,4.0,30,$$,63129.0,UugJ2WQFoV-rNFqZ4QyrHg
+1406,Hunan Peking,4.0,40,$,63129.0,96W0AFA2zNXf7WIpMyT6_g
+1407,Garvey's Grill,3.5,57,$$,63129.0,1EdfURQCj75UbcLPh9rdSw
+1408,Oakville  Sports Pub,4.5,33,$,63129.0,xlzYL_Dwm7RdQzhC0FQgkw
+1409,Lemay Wok,4.0,71,$,63129.0,bPsfG2mW_21Z03sbEKwUXQ
+1410,Bill Gianino's Restaurant,3.5,61,$$,63129.0,B1L6-hN63I1S_cAijI5Otg
+1411,Las Fuentes Mexican Restaurant,3.5,61,$$,63129.0,JQXKCQPIeoxzy6x119X6mQ
+1412,Papa Murphy's,4.5,14,$$,63129.0,7jAhxpERKakOQsxepweZsA
+1413,Pretzel Pretzel,4.0,34,$,63129.0,cQUNfooF0poRMkqAx6Dkdw
+1414,Pieology Pizzeria,4.0,85,$,63129.0,C0uRhn7nnHBATrwsCJ10Lw
+1415,OSP Tap Haus,4.0,46,$$,63129.0,TzNd_rW2-ckIjtKnVX88kQ
+1418,Rich & Charlie's,3.5,65,$$,63129.0,3f6HTECaJK4vQr4VSU1xsQ
+1419,Icing Cafe,4.0,13,$$,63129.0,S0UPup0pLE9knjrwc-kAdw
+1420,Rizzo's Italian Restaurant,3.5,76,$$,63129.0,Nk4ed0CzUUgrTa59YRWkkg
+1421,Blarney Stone Sports Bar & Grill,3.0,54,$,63129.0,nI0pvN5S_4nloj5KYtnFnQ
+1422,Oakville Bistro,3.0,37,$$,63129.0,SsLpA8PaS7CUidE5o6VoEg
+1423,Perk It Up,4.5,12,$,63129.0,WDaJ3F7PmH6yoLxlNih1Hw
+1424,La Fiesta Mexican Resturant,3.5,50,$,63125.0,t2NJiSKdFhojJp-7E68zFw
+1425,Rich's Frozen Custard,4.0,17,$,63129.0,Bb4g1Kf1FoDe4sLjumh31A
+1430,McAlister's Deli,3.0,39,$,63125.0,BQUsaSqj4Fs1KZpPWZjaSA
+1433,Shivers,5.0,3,$,63129.0,oBuUQOW0Dpzenj4q6yvdFg
+1434,Buffalo Wild Wings,2.5,71,$$,63129.0,4-f8CCdf-rEXXSaQXM6d8Q
+1436,Hooters,2.5,52,$$,63125.0,1f9oM2KnjCTNmAGU4lsPHA
+1437,St Louis Pizza & Wings,3.5,16,$$,63129.0,Qx2mHzBChsus60Mje4BQog
+1438,Jack in the Box,3.0,10,$,63129.0,3ZaYy2VND0-VUPc3DqBB_A
+1439,Croc's Sports Bar,3.5,9,$$,63129.0,1yPJRGvPNU4voA6NBTVGOg
+1440,Lucky China,3.0,21,$,63129.0,YgXBo2oMJXlDDafP6fqUTw
+1441,Crusoe's Restaurant & Bar,3.0,10,$$,63129.0,8T0j1yPdYq_O4DktiH0Q9Q
+1446,QDOBA Mexican Eats,3.0,22,$,63129.0,NujpqW9nibv2UID-hev-kw
+1447,Cicis,3.0,23,$,63125.0,WK4PNl6XRW441EHrxQFEpg
+1448,IHOP,2.0,63,$$,63129.0,JVI5tY_EcHlIFJkX5SlLVA
+1495,Seoul Taco Food Truck,4.0,71,$,63130.0,02euPBQRCGkdt2AnJQzJUQ
+1501,J Gilbert's Wood-Fired Steaks & Seafood St Louis,4.0,215,$$$,63131.0,IZv79jZv6el1sBHrG7426g
+1508,Wan Fu Chinese Restaurant,4.0,73,$,63131.0,BqGhcuQhvWaTWj1sMA7qkQ
+1510,BrickTop's,3.5,218,$$,63131.0,d3dw3YihB3WuU1Sb_i74-w
+1511,The Village Bar,3.5,116,$,63131.0,CueuRgYurL6IBGybuvQN6w
+1513,BRAVO! Cucina Italiana,3.5,147,$$,63131.0,bW3Z2Qp2rIIfZwBVP3j4Ng
+1514,Circa STL,4.0,115,$$,63131.0,LhtzbTj2QSuNUXFszSKD8w
+1515,Cafe Bistro,4.5,31,$$,63131.0,SATUtY_PGhTicpMwDF8nMg
+1516,Sugo's Spaghetteria,3.5,180,$$,63131.0,FD5pfqrsH6bdodCkV-YI1g
+1518,Assumption Greek Orthodox Church Luncheons,4.5,23,$,63131.0,N_6fTIcweG5Cq0UUw0_0GQ
+1519,The Egg & I,3.5,91,$$,63131.0,7qqlNBz6x6tiwoj0KhycwA
+1520,Which Wich,4.0,44,$,63131.0,1elddy31XiqFPVrvvd9QiQ
+1523,Kar'is Surf and Sirloin,4.0,59,$$$,63131.0,VH3489ZLB_7Q5KOs-6daew
+1524,Grassi's Ristorante & Deli,4.0,65,$,63131.0,noOgqxlc1eBRduRd_DlCxg
+1525,Jersey Mike's Subs,4.0,26,$,63131.0,f4n75m71tbpnD7JlhbADvg
+1526,Red Robin Gourmet Burgers and Brews,3.0,98,$$,63131.0,9xywJ1otUCj1kjiUGHSJCg
+1527,Chef Hsu's Hunan Star,3.5,64,$$,63131.0,ETsopXa5Sk_pvfy3-grE9g
+1528,California Pizza Kitchen at West County,3.5,62,$$,63131.0,SEWYaGpr7XxcLSQFYSV3iQ
+1529,Rib City,3.5,47,$$,63131.0,fqjyT54A1Dw27-ua8ZqiPg
+1542,Nordstrom Ebar Artisan Coffee,4.5,8,$$,63131.0,htQEdoqk04sv8tofoHHWfw
+1549,Via Vino Enoteca,3.5,13,$$,63131.0,fbSJAh28V9BuriO7VlO2nA
+1579,Ms. Piggies Smokehouse,4.0,102,$$,63132.0,X6ry8WkgUyBNPpNxIGpn5g
+1593,SuWaller's Bar & Grill,4.5,42,$,63114.0,wYL89pek3sIg4PptNRnMFQ
+1597,Honey Baked Ham Company,4.5,13,$,63132.0,9fajAXTAT1A_pcGakz64hA
+1598,Bek Hee Restaurant,3.5,34,$,63132.0,6Qa6RlVcW0CvbMlVzYXvew
+1599,J. McGraughs Bar & Grill,4.0,40,$$,63105.0,rTALf5ZKCsc8CDDxt_cn_A
+1622,St. Louis Bubble Tea,3.5,210,$,63130.0,CVqpTp3Cmud3rwAuKj15gw
+1625,Merhaba,4.5,32,$$,63130.0,MoepRQ_fkTbX3HyxfQJMUg
+1626,The Pageant,3.5,194,$$,63112.0,Y48swatqDZVRbWy16ecR3A
+1629,Eclipse Restaurant,3.5,161,$$,63112.0,ncuEphnQYscOB_KyUUsKfg
+1630,Thai Country Cafe,3.5,155,$$,63130.0,L9sNYgV-TKTQdkaeEZBqEg
+1631,Gyro House,4.0,113,$,63112.0,BJXK4B2N8CLoc__SoDNPjg
+1632,The Melting Pot,3.5,176,$$$,63130.0,c-bNmSeRVifpRTegX2aGZg
+1633,Turmeric,4.0,63,$$,63130.0,90u_o_0kd1Fh9ynU5brO3w
+1634,Snow Factory,3.5,111,$$,63130.0,dSYsEujLjzHTEj3lXvSJsg
+1635,Meshuggah Café,3.5,121,$,63130.0,wEI-j7yCt-voSHgbjgnhIg
+1637,Bobo Noodle House,3.5,154,$$,63130.0,4HJoGhB4Svo-_7ecM-Cv5g
+1638,FroYo Frozen Yogurt,3.5,113,$,63130.0,bLbjB2EeIQLFUS9ofKS-lw
+1644,ZZA Pizza + Salad,4.0,74,$,63130.0,9P6yLs8Yi6WhbmBIiwvWhg
+1645,Cursed Bikes & Coffee,4.5,37,$,63130.0,-sdxKwgP6209YUfoFiVuTQ
+1646,Wacked Out Weiner,4.5,28,$$,63130.0,DS2XDLFAupA0Fvm2OLpXcw
+1647,JUST Chicken,4.5,32,$$,63112.0,QXxe89rymWhK-Bnn1WXvkA
+1650,Wingtips Lounge,5.0,41,$$,63145.0,CYkrmWef7QQM-l-92DKiSA
+1655,OL' Henry Restaurant,4.0,41,$$,63134.0,-yu4koRugjxrnsey25oIuw
+1656,Vino Volo,3.5,63,$$,63145.0,AD-CJ3g6_JjKAaJMb4tXqA
+1661,Big Boyz Burgers and More,4.0,22,$,63134.0,Jv8lYSZPxY0rzkSpgo7BIw
+1662,Schlafly Beer Bar & Grill,2.5,151,$$,63145.0,GJXGdJlCroyRTmCxsz3i6Q
+1663,Lombardo's Restaurant,3.0,110,$$,63134.0,MZRvuUt9WUDI2hHFHyQi8w
+1664,Young's Chinese Restaurant,5.0,12,$$,63134.0,SHHn2sz0_d188bEV3AkrIA
+1668,Eero's,3.5,22,$$,63134.0,iTcHETJzAm1Vkz-tGDSEdw
+1670,Pizza Studio,4.0,23,$$,63145.0,mUmk-jniuE54jlwQ7CQ7lw
+1671,St. Louis Brewmasters Tap Room,2.5,75,$$,63145.0,bcqa1qoEEwphquiy1ssUXQ
+1672,Ted Drewes Frozen Custard,4.5,12,$,63145.0,bPq8mgG3Lwkc8CZjRMqCpQ
+1673,Yesterday's,3.5,32,$,63134.0,zs4vsJYsEx4hB-w3wp1Tvg
+1674,American Airlines Admirals Club,3.5,25,$$,63044.0,joziEnj1kVdr6uUAE6kXog
+1676,Mike Shannon's,2.5,97,$$,63145.0,LXIUiSsJHs9n5BGYcF2bAg
+1680,Big L Chop Suey,4.0,15,$,63121.0,0upS_zVQ48_9WuTjxmwRqQ
+1681,Eighteen76,2.0,65,$$,63145.0,p3j6OTfxVc6fBO9HnkAVhw
+1682,Sun Restaurant,3.5,31,$,63042.0,7kZjWXFExQgqy_TheGOTOw
+1683,El Comal,3.5,26,$$,63114.0,1YMF0G6kZKqCXlzMGqh5Rw
+1685,Great American Bagel,2.5,48,$,63145.0,YMtSZKXAFVzk0IEdNG9zMw
+1686,Dunkin Donuts - Baskin Robbins,3.0,23,$,63145.0,1i9ZqL4KwVP5L8F2E_aWhA
+1687,China Moon,3.5,26,$,63114.0,PgRFPVpr7fDr4S4Blm9APg
+1690,Grounded in St. Louis,2.0,123,$$,63134.0,9cOgjbxMXq1bL5dJikc6pg
+1691,The Great American Bagel Bakery,2.5,40,$,63145.0,TElXBof_tc4QXxr5iFmdzA
+1693,Nephew's Grille,3.0,21,$,63134.0,xDx6dKd1FNN4mzxip4vViQ
+1694,California Pizza Kitchen,2.0,52,$$,63145.0,6xyWKyjr2qGSkBF30wooWw
+1696,Pop's Kitchen,4.5,10,$,63114.0,YdZiaABs48KQF5IjYq-dmQ
+1709,St. Louis Fish & Chicken Grill,4.0,13,$,63135.0,Mc-YbGuvj3qYlkMfGjw6dQ
+1710,Pirrone's Pizzeria,3.5,98,$$,63033.0,t5Xc0u9yvOH0-DgmrCS60Q
+1712,Sweetie Pies,3.5,46,$$,63136.0,gTUERr6FchxzrqGBnQDjIA
+1714,African Palace,4.5,20,$$,63033.0,frsWe9bmMOMIBOBNzsCTew
+1715,Doozles Frozen Custard,4.0,29,$,63031.0,hVbfirZtdhscx6Ie2-V5iw
+1717,Paul's Market,4.0,10,$$,63135.0,CUxSddlUbqKiEiwFbHKwLQ
+1725,Hunan Chop Suey Chinese Restaurant,4.5,6,$,63136.0,gkZbFkzlp8etmXQZSllfMA
+1726,Chins Wok,3.5,19,$,63033.0,-8jIGHKz1-Tnv2X85kxbvQ
+1727,China House,3.5,8,$,63136.0,C0wTjg67T6jPvw7M1wsx-g
+1730,New York Grill,3.5,9,$,63136.0,54X8EMNaeeMjleWUZENl6w
+1734,Pirrone's Banquet Center,5.0,4,$$,63033.0,rqCECpwrIEbbYii7hW_Glw
+1736,Taco Bell,3.5,8,$,63136.0,ANl5EZQnaik61jBUgr-Uxw
+1741,Hibachi Grill & Supreme Buffet,2.0,17,$$,63136.0,ADhru3iHReDSty-DIkGh5g
+1744,Popeyes Louisiana Kitchen,1.5,15,$,63135.0,VwUiIVmWjtuKUEWgOL-cZw
+1747,D & K Sandwich Shop,3.5,3,$,63134.0,wE5ieswnHQBTwt0YuifA1Q
+1748,Spencer's Bakery,3.0,2,$,63135.0,qCwuywloc66i0P0plbRleA
+1752,The White Barn,4.5,20,$,63136.0,PL6CzuA_gDqBL_eWc_6ouw
+1756,Mack's Chicken,3.5,19,$,63136.0,mJJTx-x896dLV2gSMwQ35g
+1760,Cracker Barrel Old Country Store,2.5,52,$,63136.0,PFLbYu6MuGr1BbDWb1c0yA
+1767,Peking Chop Suey,4.0,7,$,63136.0,HtD7RhKMdovXiqr4nTiMqg
+1779,Applebee's Grill + Bar,2.0,27,$$,63033.0,iOneMCZY-T3w4aisqi4R2Q
+1780,Chu Vu III Chop Suey Restaurant,3.5,2,$,63136.0,TqmnnAxB6E1O3ufngyt6yQ
+1782,Leawa Chop Suey,3.5,3,$,63136.0,c-QzuVK3q5BHGcIdI0nHdA
+1785,Papa John's Pizza,2.0,9,$,63136.0,uyc-S7lauYjzouYQ2TM76A
+1786,Krispy Kreme,2.5,10,$,63136.0,akDpsA4iPc6_0pHbDWFyYQ
+1791,New Chong Weh,3.0,5,$,63136.0,pLJKpk57xNCZVeSTKea28w
+1793,Sonic Drive-In,1.5,7,$,63136.0,JmOL5qRHdqVqTQ1dp2ZKSQ
+1796,Captain D's,4.0,2,$$,63033.0,8F50jMju_rreoSlK71k8CA
+1802,JC Supper Club,4.0,7,$$,63137.0,U5iSWfTcvzqnur3SZkGBHA
+1803,Playboy El Cappuccino,3.5,21,$$,63147.0,6ocjEAlJYLZu0SksTMUZRg
+1805,C-W Fried & Grill,4.5,3,$,63137.0,JKmqeigSs6vLKpjoRPhLug
+1809,Schnucks Sierra Vista,4.0,2,$$,63138.0,CASPVZ5z5cGrFS3UYaylWQ
+1811,Hardees,2.0,6,$,63137.0,MU38C5Fu2ER5PwwPWQMyHw
+1813,T Js Pizza,2.5,3,$,63137.0,1dF6hKCLrdEPDOWcwrXgOA
+1815,Soul Peppers Restaurant,3.0,3,$,63137.0,o4Lztqm8JbPbNx5j-h2sOA
+1820,Little Caesars Pizza,1.0,1,$,63136.0,oIrq8ecU2ECQqXmW-Ueifw
+1825,Rookies Bar,3.5,9,$,63033.0,fJVsb37KbVPNuPO_4_lktg
+1827,St Louis Fish & Chicken,3.0,10,$$,63033.0,GU9Cmcwudub8l_NaghjXlg
+1872,The Cakery,4.5,96,$$,63139.0,tn3_76PZZLCmGBLgBWdTTw
+1875,Gian-Tony's On The Hill,4.0,226,$$,63110.0,N2pULwcdouGh3HwmMO67SA
+1877,SOHA Bar and Grill,4.0,171,$$,63139.0,Y9CWVffIrTYCXE9PVreerQ
+1878,Nora's,4.5,219,$,63139.0,r2bYRNrtMhv-ED2-cFZp6Q
+1879,Seamus McDaniel's,4.0,325,$$,63139.0,OcCrSDYR5cETO4FZ7R2iEg
+1881,Cunetto House of Pasta,3.5,297,$$,63139.0,nVxOIEEYhoQfSUkr8QhWmQ
+1886,Joey B's On The Hill,3.5,195,$$,63139.0,vuAI70USd3my2Kb9_9zajw
+1888,LoRusso's Cucina,4.0,123,$$,63139.0,XdUIIp-NFQax3Kr6XitmMg
+1889,Mama Toscano's Ravioli,4.5,89,$,63110.0,kt_bKY8w2LLCHPd47GibOw
+1892,Park Avenue Coffee - The Hill,4.5,91,$$,63139.0,xqrlUnrLo1t9UP38S02qeg
+1896,Felix's Pizza Pub,4.0,251,$$,63139.0,ikONTzFKwachQtFtoMGeIQ
+1897,Mama's On the Hill,3.5,395,$$,63110.0,iDZmCTXMxZi_HlAmOKyEeQ
+1898,Amigo Joe's,3.5,239,$,63139.0,yU7ZlN5xr13C9OH7qz6cbA
+1931,Taste-D-Burger,3.5,13,$,63114.0,JFUTJaE3REmCne1hnWm-OQ
+1939,Brioche Doree Concourse A,2.0,16,$,63134.0,QwH__zx8N0TmF0r4o4yOuA
+1946,Hunan Chinese Express,3.0,5,$,63134.0,ATFZcrpfXmE-2HZEjXbYYg
+1949,Bristol Seafood Grill,4.0,483,$$$,63141.0,7AjM-d3gsgpvKDQSX6QCuA
+1950,Nudo House STL,4.5,375,$$,63141.0,gsyyVQmvT9A2nAgUi7VUag
+1951,Poké Munch,4.5,136,$$,63141.0,dQR7ZcEsOC9L-LKRYwekUA
+1952,La Bonne Bouchee,4.0,340,$$,63141.0,wMWRpzjKgwIef2yJ41RCGw
+1953,Shack Breakfast & Lunch Creve Coeur,4.5,142,$$,63141.0,qKr8O3IVXwyGFiQVFmA8CA
+1955,Gulf Shores Restaurant and Grill,3.5,505,$$,63141.0,ATO_GTUMSEYBZn0v1cqg0g
+1956,Olive Street Cafe,4.0,276,$$,63141.0,4uZUHjSonatwt-02yqJp6w
+1958,The Dapper Doughnut,4.5,76,$,63141.0,bXsc3GrmXs7qDSB5ujIISA
+1959,The Bagel Factory,4.5,89,$,63141.0,9PSg27_eo9WBmC_7msPz3Q
+1961,Anis Hyderabad Restaurant,4.0,197,$$,63141.0,-6jVwUuXC1-dyr2YRCEU6Q
+1962,EdgeWild Bistro & Tap,3.5,150,$$,63141.0,_PZHmeCIdTVfByOUgBQKMA
+1963,Il Bel Lago,4.0,98,$$$,63141.0,YBncKq0rdijgeIyjuW_Czw
+1964,Wudon Korean BBQ,4.0,205,$$,63141.0,xmO9u_t1LspxV5iuF594Tg
+1965,Granite City Food & Brewery,3.5,291,$$,63141.0,TZG_XV9u4xgE56s0otXEag
+1966,St Louis Gyros,3.5,147,$,63141.0,O4mH_WvFA0My7qOxbkAYow
+1967,Vivola Express,4.5,106,$,63146.0,RVJTAYG1RGzovNxhDabs9Q
+1970,Pita Plus,4.0,122,$,63141.0,6KsJ2zN2jdgEiQidiRczxQ
+1972,Potbelly Sandwich Shop,3.5,85,$,63141.0,ThpNtCxktDMcnfLJR5fTNA
+1973,Joo Joo Restaurant & Karaoke,4.0,107,$$,63141.0,lOVHIBqgi4knjSx4tuCgjQ
+1974,Oishi Sushi,3.5,100,$$,63141.0,-lLEaycKOdFoPALPL33NFA
+1975,Dave & Tony's,3.5,152,$,63141.0,4HMXL85u_wX0WEHucVkI6A
+1976,Ocha Thai & Japanese Restaurant,4.0,129,$$,63141.0,TfBeg0dU0vWOKM8SMfF4vg
+1977,Pickleman's Gourmet Cafe,4.0,63,$,63141.0,4H6KdEMRlSrpFktX2k5gxg
+1978,Silky's Frozen Custard,4.5,51,$,63141.0,FQ4laTd22rj6mqGB4vFLcw
+1979,Pastries of Denmark,3.0,141,$$,63141.0,TeP60DIUUa6VQuvCEvoTsw
+1980,Ichiban Sushi Bar Japanese Restaurant,3.5,55,$$,63141.0,ARd49aYs1sioDV7Sy3lvwA
+1981,The Post Sports Bar & Grill,3.5,100,$$,63141.0,pf4-YHmxzkQmntN99fF95w
+1983,HuHot Mongolian Grill,3.5,158,$$,63141.0,WbgO6wXKQheF3XRc1RVn6Q
+1984,The Hive,3.5,42,$,63141.0,CiDF-bnN18SBrGpMGFybSA
+1985,St Louis Rotisserie,3.5,48,$,63141.0,q7ZDtsWUnFySwkV5fC4xvw
+1986,Pei Wei,3.0,101,$,63141.0,Bj2_M9hl2ZcDpzkPrTwcjw
+1989,Cold Stone Creamery,3.5,48,$$,63141.0,-g_U4oIc5XGdIqXoGvarUQ
+1990,Menchie's Frozen Yogurt - Heritage Place,4.5,19,$,63141.0,-kDNAKwvtYcW0NMjHRmgkw
+1993,The Global Quesadilla,3.5,59,$$,63141.0,AWo28R8h3bEEZJtIkravnQ
+1996,Houlihan's,3.0,118,$$,63141.0,puNq5KmQs4HAzGhVajFj8w
+1997,Zang Chi,3.0,47,$,63141.0,m23YTgIVALszrdDu8BPm-g
+2018,The Crow's Nest,4.0,219,$$,63143.0,R_J3B7usj-NDHm_wNFSa0w
+2021,Boardwalk Waffles & Ice Cream,4.5,96,$,63143.0,jM15GsyhiE6kNskyIx5ujA
+2024,Thai Table,4.0,94,$$,63143.0,Oo0nT3n5Gdocq6j4WXN4Ng
+2027,La Cosecha Coffee Roasters,4.5,47,$,63143.0,JPTxxPgVUEkb9BJlO6PAhw
+2033,Mauhaus,4.0,89,$,63143.0,9U2w4rQlIgBQqHuTRgp7Rw
+2037,Great Harvest Bread Company-Maplewood,5.0,27,$$,63143.0,wUmT6aKugN4cmiit0XGRnQ
+2038,Robata Maplewood,3.5,196,$$,63143.0,KRpi9ZJHt65jY4DfwI7VrA
+2041,Tapped,4.0,122,$$,63143.0,8XShad-H8bEr_p2GwFIoiQ
+2047,The Benevolent King,4.0,74,$$$,63143.0,Ytp6XpvKFseskYaFbn8wKg
+2103,DD Mau Vietnamese Eatery,4.5,172,$$,63043.0,3AZjEgNM6CiOePDKKAQWgA
+2108,The Foundry Bakery,5.0,110,$,63043.0,4bNFWpQtS5PtfjXuxTc-GQ
+2110,Companion Cafe - Saint Louis,4.5,121,$$,63146.0,QBvj3FvJbYJRa9xWb6DyQA
+2113,Kemoll's Italian Restaurant,3.5,222,$$$,63146.0,JREsjrhPhAScYML7Y-EdQQ
+2115,Westport Social,4.0,167,$$,63146.0,55GmNphU0DhtkvG5lSZ49w
+2118,Kobe Steak House of Japan,3.5,170,$$,63146.0,QYPornWtiB1k0xS3Fm-jwA
+2122,Thai Kitchen,3.5,318,$$,63043.0,55ve4cBxbUH0r-EcWnBrCQ
+2126,Paul Mineo's Trattoria,3.5,98,$$,63146.0,yrr7jg2oC46Bf-xbwtCI7g
+2128,Balducci's,3.5,109,$$,63146.0,2e7nTXMc-l0cM_YpV5g5Ow
+2134,Priyaa Indian Cuisine,4.0,125,$$,63043.0,6t_bgCtLMU-yC4QGqjY72w
+2138,Syberg's on Dorsett,3.5,187,$$,63043.0,FG2cLs48PEwuzYGon-bxCg
+2142,India Palace,3.5,107,$$,63043.0,tjnAz8IqAnqxxpQIAyuZMw
+2144,Dino's Deli,5.0,12,$,63146.0,DRMeSZZuKAVrYMHGDiwwcw
+2152,Bissell Mansion Restaurant and Murder Mystery Dinner Theatre,3.5,18,$$$,63107.0,ueJFblv3esW2xjqO7IepGg
+2153,Cornerstone Cafe,4.0,18,$,63107.0,QnFIWz-CgEVqQ8qhzFrl7A
+2154,Gregg's Bar & Grill,4.0,13,$$,63147.0,KrvRJSXUV-l8HPpS08eaSQ
+2160,Bing Lau Chop Suey,4.5,6,$,63107.0,cUi8TwIH_dt91b_KfPRdTg
+2162,Du Kum Inn,3.5,18,$,63080.0,AVCjn9uVgkjIRM3uYrEf1w
+2169,Kings Fried Rice Chopsuey,4.0,2,$,63107.0,Py03f_TfjPxt0MT6uFok8g
+2175,Golden House Chop Suey,3.0,2,$,63115.0,3NzWexJXzLV-E4wlroz-8A
